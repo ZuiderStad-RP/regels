@@ -66,6 +66,7 @@ Onder overheidsobjecten vallen voorwerpen zoals: medkits, repair kits, politie/k
  <tr><td>2.19</td><td>Het campen van populaire locaties is verboden. Je mag dus niet campen omdat je aan het wachten bent tot bijvoorbeeld een pluk locatie actief wordt, ook mag je locaties niet campen met als doen te gaan rippen</td><td>Artikel 27c</td></tr>
  <tr><td>2.20</td><td>Het is niet toegestaan om een auto met drugs in je garage te zetten en ze op een andere plek uit de garage te halen en op deze manier eventuele controles te vermijden. Wanneer je drugs wil transporteren naar een andere locatie dan dien je de auto fysiek er heen te rijden. De auto in een garage zetten en op een andere plek er uit halen is verboden en valt onder Fail RP. Indien je hierop betrapt wordt, wordt naast de straf die bij Artikel 13 hoort ook al je drugs in beslag genomen</td><td>Artikel 13</td></tr>
  <tr><td>2.21</td><td>Het is niet toegestaan om je wapen binnen 10 minuten weg te leggen nadat je deze vast hebt gehad. Je mag binnen deze 10 minuten ook niet wachten in ganghuis of appartement.</td><td>Artikel 17b</td></tr>
+ <tr><td>2.22</td><td>Het is niet toegestaan om zonder wapen iemand te ontvoeren of een overval te starten. Een "wapen" zoals een brandblusser wordt niet gezien als geldig wapen om een overval mee te starten.</td><td>Artikel 27d</td></tr>
 </tbody></table>
 
 ## 3. Regels voor gijzelen/overval/doden

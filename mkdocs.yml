@@ -1,0 +1,59 @@
+site_name: ZuiderStad Regels
+theme:
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: nl
+  palette:
+    - scheme: slate 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode    
+      primary: light blue
+      accent: light blue
+    - scheme: default
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+      primary: light blue
+      accent: light blue
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/zuiderstad
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@ZuiderStad
+    - icon: fontawesome/solid/cart-shopping
+      link: https://zuiderstad.tebex.io/
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+copyright: |
+  &copy; 2022-2023 <a href="https://github.com/ZuiderStad-RP"  target="_blank" rel="noopener">ZuiderStad Roleplay™</a>

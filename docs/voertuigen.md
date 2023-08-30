@@ -1,19 +1,17 @@
----
-hide:
-  - navigation
----
-# Offroad Regels
+# Voertuigen
+Op deze pagina vind je meer informatie omtrent voertuig regels. Je ziet hier bijvoorbeeld welke voertuigen offroad mogen en welke voertuigen vallen onder hypercars en superbikes (het type dat niet gebruikt mag worden bij overvallen).
 
 ## Offroad
 In ZuiderStad is het enkel voor offroad voertuigen toegestaan om offroad te rijden. Met normale voertuigen is het niet toegestaan om offroad te rijden. Het overtreden van deze regel valt onder Artikel 14 – Offroad. Onder offroad verstaan we een ondergrond die bestaat uit zand, gras, kiezels of modder waar geen weg of pad zichtbaar is.<br>Het monteren van offroad banden zorgt er <strong>niet</strong> voor dat je met het voertuig offroad mag rijden!
 
 ## Onverharde wegen
-Alle voertuigen binnen ZuiderStad mogen op onverharde wegen rijden. Onder onverharde wegen verstaan we wegen die niet van asfalt zijn, maar wel duidelijk een weg of pad vormen en op de kaart ook als weg worden aangeduid.
+Alle voertuigen binnen ZuiderStad mogen op onverharde wegen rijden. Onder onverharde wegen verstaan we wegen die niet geasfalteerd zijn, maar wel duidelijk een weg of pad vormen en op de kaart ook als weg worden aangeduid.
 
 ## Offroad voertuigen
-Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden:
+Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden (importvoertuigen staan niet op deze lijst):
+### Burger offroad voertuigen
 <table>
-<thead><th>Voertuig</th></tr></thead><tbody>
+<thead><th>Burger offroad voertuigen</th></tr></thead><tbody>
  <tr><td>Alfa Romeo Stelvio</td></tr>
  <tr><td>Aston Martin DBX</td></tr>
  <tr><td>Audi SQ7 2016</td></tr>
@@ -64,8 +62,9 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden:
  <tr><td>Volvo XC90</td></tr>
 </tbody></table>
 
+### Eiland offroad voertuigen
 <table>
-<thead><th>Eiland Voertuig</th></tr></thead><tbody>
+<thead><th>Eiland offroad Voertuig</th></tr></thead><tbody>
  <tr><td>Canis Kamacho</td></tr>
  <tr><td>Canis Seminole Offroad 4x4</td></tr>
  <tr><td>Declasse Yosemite</td></tr>
@@ -81,10 +80,10 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden:
  <tr><td>Youga Offroad Transporter</td></tr>
 </tbody></table>
 
-## Offroad voertuigen hulpdiensten
-Hieronder vind je een overzicht van alle voertuigen van hulpdiensten die offroad mogen rijden:
+
+### Politie offroad voertuigen
 <table>
-<thead><th>Politie</th></tr></thead><tbody>
+<thead><th>Politie offroad voertuigen</th></tr></thead><tbody>
  <tr><td>Bearcat</td></tr>
  <tr><td>Ford F150 sleepwagen</td></tr>
  <tr><td>Ford Raptor</td></tr>
@@ -102,8 +101,9 @@ Hieronder vind je een overzicht van alle voertuigen van hulpdiensten die offroad
  <tr><td>Unmarked Range Rover</td></tr>
 </tbody></table>
 
+### Koninklijke Marechaussee offroad voertuigen
 <table>
-<thead><th>Koninklijke Marechaussee</th></tr></thead><tbody>
+<thead><th>Koninklijke Marechaussee offroad voertuigen</th></tr></thead><tbody>
  <tr><td>Bearcat</td></tr>
  <tr><td>Fiets</td></tr>
  <tr><td>Lichte motor Yamaha Tracer 700</td></tr>
@@ -117,14 +117,16 @@ Hieronder vind je een overzicht van alle voertuigen van hulpdiensten die offroad
  <tr><td>YPR-pantserrupsvoertuig</td></tr>
 </tbody></table>
 
+### Handhaving offroad voertuigen
 <table>
-<thead><th>Handhaving</th></tr></thead><tbody>
+<thead><th>Handhaving offroad voertuigen</th></tr></thead><tbody>
  <tr><td>Handhaving Amarok (offroad)</td></tr>
  <tr><td>Handhaving Fiets</td></tr>
 </tbody></table>
 
+### Ambulance offroad voertuigen
 <table>
-<thead><th>Ambulance</th></tr></thead><tbody>
+<thead><th>Ambulance offroad voertuigen</th></tr></thead><tbody>
  <tr><td>Audi Q7</td></tr>
  <tr><td>Ford F150</td></tr>
  <tr><td>Lichte motor BMW</td></tr>
@@ -133,10 +135,71 @@ Hieronder vind je een overzicht van alle voertuigen van hulpdiensten die offroad
  <tr><td>Volvo XC90</td></tr>
 </tbody></table>
 
+### ANWB offroad voertuigen
 <table>
-<thead><th>ANWB</th></tr></thead><tbody>
+<thead><th>ANWB offroad voertuigen</th></tr></thead><tbody>
  <tr><td>Toyota TRD Pro</td></tr>
  <tr><td>Toyota TRD Pro (geavanceerd)</td></tr>
  <tr><td>Volkswagen Amarok</td></tr>
  <tr><td>Volvo XC90</td></tr>
+</tbody></table>
+
+## Hypercars
+Bij overvallen is het niet toegestaan om gebruik te maken van Hypercars. Hypercars geven een onrealistisch voordeel bij het plegen van een overval. Het gebruiken van een Hypercar bij een overval valt onder Artikel 13 - FailRP. Hieronder vind je een overzicht van alle Hypercars in ZuiderStad (importvoertuigen staan niet op deze lijst).
+
+<table>
+<thead><th>Hypercars</th></tr></thead><tbody>
+ <tr><td>Aston Martin Vulcan</td></tr>
+ <tr><td>Bugatti Atlantic</td></tr>
+ <tr><td>Bugatti Bolide</td></tr>
+ <tr><td>Bugatti Chiron</td></tr>
+ <tr><td>Bugatti Chiron 300</td></tr>
+ <tr><td>Bugatti Chiron Super Sport</td></tr>
+ <tr><td>Bugatti Divo</td></tr>
+ <tr><td>Bugatti La Voiture</td></tr>
+ <tr><td>Bugatti Veyron</td></tr>
+ <tr><td>Ferrari Enzo MIG-U1</td></tr>
+ <tr><td>Ferrari LaFerrari</td></tr>
+ <tr><td>Ferrari P80</td></tr>
+ <tr><td>Hennessey Venom F5</td></tr>
+ <tr><td>Koenigsegg Agera</td></tr>
+ <tr><td>Koenigsegg CCX</td></tr>
+ <tr><td>Koenigsegg Gemera</td></tr>
+ <tr><td>Koenigsegg Jesko</td></tr>
+ <tr><td>Lamborghini Aventador</td></tr>
+ <tr><td>Lamborghini Aventador LP700</td></tr>
+ <tr><td>Lamborghini Aventador SVJ 63</td></tr>
+ <tr><td>Lamborghini Centenario LP770</td></tr>
+ <tr><td>Lamborghini Countach LPI 800-4</td></tr>
+ <tr><td>Lamborghini Revuelto</td></tr>
+ <tr><td>Lamborghini SC18</td></tr>
+ <tr><td>Lamborghini Sian</td></tr>
+ <tr><td>Lamborghini Sian FKP37</td></tr>
+ <tr><td>Lamborghini Sian Spider</td></tr>
+ <tr><td>Lamborghini Terzo Millennio</td></tr>
+ <tr><td>Lamborghini Veneno</td></tr>
+ <tr><td>McLaren GTR 1996</td></tr>
+ <tr><td>McLaren Senna</td></tr>
+ <tr><td>McLaren Senna GTR</td></tr>
+ <tr><td>McLaren Speedtail</td></tr>
+ <tr><td>McLaren Speedtail</td></tr>
+ <tr><td>Mercedes AMG One</td></tr>
+ <tr><td>Pagani Huayra BC</td></tr>
+ <tr><td>Pagani Imola</td></tr>
+ <tr><td>Scuderia Scg003S</td></tr>
+ <tr><td>Tesla Roadster</td></tr>
+ <tr><td>Toyota Supra MK4</td></tr>
+ <tr><td>Toyota Supra MK4 Castrol</td></tr>
+ <tr><td>W Motors Fenyr Supersport</td></tr>
+</tbody></table>
+
+## Superbikes
+Bij overvallen is het niet toegestaan om gebruik te maken van Superbikes. Superbikes geven een onrealistisch voordeel bij het plegen van een overval. Het gebruiken van een Superbike bij een overval valt onder Artikel 13 - FailRP. Hieronder vind je een overzicht van alle Superbikes in ZuiderStad (importvoertuigen staan niet op deze lijst).
+<table>
+<thead><th>Superbikes</th></tr></thead><tbody>
+ <tr><td>BMW M1000RR</td></tr>
+ <tr><td>BMW S1000 Drag</td></tr>
+ <tr><td>Kawasaki Ninja H2R</td></tr>
+ <tr><td>Kawasaki Ninja Zx10</td></tr>
+ <tr><td>Suzuki Hayabusa</td></tr>
 </tbody></table>

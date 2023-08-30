@@ -11,7 +11,7 @@ In ZuiderStad is het enkel voor offroad voertuigen toegestaan om offroad te rijd
 Alle voertuigen binnen ZuiderStad mogen op onverharde wegen rijden. Onder onverharde wegen verstaan we wegen die niet van asfalt zijn, maar wel duidelijk een weg of pad vormen en op de kaart ook als weg worden aangeduid.
 
 ## Offroad voertuigen
-Hieronder vind je een overzicht van alle voertuigen die off-road mogen rijden:
+Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden:
 <table>
 <thead><th>Voertuig</th></tr></thead><tbody>
  <tr><td>Alfa Romeo Stelvio</td></tr>
@@ -82,7 +82,7 @@ Hieronder vind je een overzicht van alle voertuigen die off-road mogen rijden:
 </tbody></table>
 
 ## Offroad voertuigen hulpdiensten
-Hieronder vind je een overzicht van alle voertuigen van hulpdiensten die off-road mogen rijden:
+Hieronder vind je een overzicht van alle voertuigen van hulpdiensten die offroad mogen rijden:
 <table>
 <thead><th>Politie</th></tr></thead><tbody>
  <tr><td>Bearcat</td></tr>

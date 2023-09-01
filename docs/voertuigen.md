@@ -44,8 +44,8 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden (im
  <tr><td>Mercedes GLE63S</td></tr>
  <tr><td>Nissan Titan</td></tr>
  <tr><td>Porsche Cayenne</td></tr>
+ <tr><td>Porsche Macan</td></tr>
  <tr><td>Porsche Macan Ursa</td></tr>
- <tr><td>Porsche Panamera Mansory</td></tr>
  <tr><td>Quad</td></tr>
  <tr><td>Ram 2500</td></tr>
  <tr><td>Ram TRX</td></tr>

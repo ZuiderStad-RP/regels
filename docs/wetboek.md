@@ -5,7 +5,6 @@ Op deze pagina vind je het wetboek van ZuiderStad. Ook vind je hier alle straffe
 <ul><li>1 maand gevangenisstraf staat gelijk aan 1 minuut in de gevangenis</li>
 <li>Te allen tijde geldt er een maximum gevangenisstraf van 90 maanden</li>
 <li>Te allen tijde geldt er een maximum aantal taakstraffen van 100 taken</li>
-<li>Wanneer er geen advocaat kan worden ingezet geldt er een aftrek van 10 taken/maanden celstraf wanneer het totaal aantal taken/maanden celstraf hoger of gelijk is aan 45 taken/maanden celstraf</li>
 <li>Iemand mag maximaal 15 minuten in voorarrest zitten, elke maand langer wordt afgetrokken van het totaal aantal taken/maanden. Het verhoor en gesprekken met de advocaat vallen niet onder deze 15 minuten</li></ul>
 
 ## Categorieën

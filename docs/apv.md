@@ -229,13 +229,12 @@ Wanneer een speler moedwillig iemand oplicht, door bijvoorbeeld af te spreken ee
 <li>2e overtreding: Categorie 6</li>
 <li>3e overtreding: Categorie 8</li>
 
-## Artikel 27a - Communicatie afpakken
-Het is niet toegestaan om communicatie van overheidsdiensten af te pakken bij een ontvoering. Wel mag je deze fictief afpakken door middels het commando /do, bijvoorbeeld: "/do pakt communicatie en noodknap af". Het is verboden dit soort teksten te keybinden. Het is <b>wel</b> toegestaan om communicatiemiddelen van andere inwoners af te pakken.
+## Artikel 27a - Overheidsspullen afpakken
+Het is niet toegestaan om items die bij een overheidsbaan horen afpakken/rippen
 <li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 3</li>
 <li>3e overtreding: Categorie 6</li>
 <li>4e overtreding: Categorie 8</li>
-
 
 ## Artikel 27b - Rippen + doodmaken
 Wanneer je iemand ript en de speler meewerkt mag je deze speler niet vermoorden. De reden "anders herkent de speler mij" is geen goede reden, dan moet je zorgen dat je een vermomming, masker en stemvervormer gebruikt wanneer je iemand gaat rippen.
@@ -274,9 +273,9 @@ Het is verboden andere spelers te fouilleren zonder dat je toestemming hebt. All
 
 ## Artikel 30 - Corruptie
 Wanneer een overheidsmedewerker corrupt is, bijvoorbeeld iemand binnen de politie die de onderwereld aan informatie helpt.
-<li>1e overtreding: Categorie 1 + bpete vam 100K + melding naar leiding, die bepaald of je ontslagen wordt</li>
-<li>2e overtreding: Categorie 5 + boete vam 500K + ontslag</li>
-<li>3e overtreding: Categorie 8</li>
+<li>1e overtreding: Boete van 500K + melding naar leiding, die bepaald of je ontslagen wordt</li>
+<li>2e overtreding: Boete van 1 miljoen + ontslag</li>
+<li>3e overtreding: Boete van 2,5 miljoen + ontslag + permanente overheidsjob blacklist</li>
 
 ## Artikel 31 - F6 abuse
 Een speler met een F6 menu mag dit menu enkel gebruiken wanneer dit binnen de RP past. Dit geldt zowel voor criminelen als overheidsdiensten.

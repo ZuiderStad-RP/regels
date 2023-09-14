@@ -23,4 +23,5 @@ In ZuiderStad hebben we een volwassen en competent staffteam. Het staffteam zet 
  <tr><td>6.14</td><td>Staffleden moeten openstaan voor feedback van spelers en bereid zijn om hun aanpak te verbeteren op basis van constructieve suggesties.</td></tr>
  <tr><td>6.15</td><td>Staffleden mogen hun permissies niet misbruiken om anderen te hinderen, te trollen of op een andere manier negatief te beïnvloeden.</td></tr>
  <tr><td>6.16</td><td>Staffleden moeten effectief samenwerken met andere leden van het staffteam en gedeelde beslissingen respecteren.</td></tr>
+ <tr><td>6.17</td><td>Staffleden mogen geen staffzaken die betrekking hebben op hun eigen gang behandelen.</td></tr>
 </tbody></table>

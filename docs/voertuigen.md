@@ -36,6 +36,9 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden (im
  <tr><td>Ktm Exc530</td></tr>
  <tr><td>KTM X Offroad</td></tr>
  <tr><td>Land Rover Defender</td></tr>
+ <tr><td>Mercedes Brabus D35</td></tr>
+ <tr><td>Mercedes Brabus G800</td></tr>
+ <tr><td>Mercedes Brabus GLS 800</td></tr>
  <tr><td>Mercedes G65 AMG</td></tr>
  <tr><td>Mercedes G65 AMG 6x6</td></tr>
  <tr><td>Mercedes G65 AMG-R</td></tr>

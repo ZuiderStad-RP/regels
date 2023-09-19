@@ -71,6 +71,7 @@ Hieronder zie je per categorie de borgsom die je kunt betalen om vrij te komen.
 ## Wetboek van strafrecht
 <table>
 <thead><th>Categorie</th><th>Straf</th><tbody>
+ <tr><td>[CAT1] Vernieling en Vandalisme</td><td>10 taakstraffen of 7 maanden celstraf</td></tr>
  <tr><td>[CAT1] Hinderen gerechtigheid</td><td>10 taakstraffen of 7 maanden celstraf</td></tr>
  <tr><td>[CAT1] Verstoren van openbare orde</td><td>10 taakstraffen of 7 maanden celstraf</td></tr>
  <tr><td>[CAT3] Negeren ambtelijk bevel</td><td>15 taakstraffen of 10 maanden celstraf</td></tr>

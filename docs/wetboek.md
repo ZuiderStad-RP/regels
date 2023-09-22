@@ -71,6 +71,8 @@ Hieronder zie je per categorie de borgsom die je kunt betalen om vrij te komen.
 ## Wetboek van strafrecht
 <table>
 <thead><th>Categorie</th><th>Straf</th><tbody>
+ <tr><td>[CAT1] Openbaar drugsgebruik en Dronkenschap</td><td>€2.000 boete of 10 taakstraffen</td></tr>
+ <tr><td>[CAT1] Bedreigen van een burger</td><td>10 taakstraffen of 7 maanden cel)</td></tr>
  <tr><td>[CAT1] Vernieling en Vandalisme</td><td>10 taakstraffen of 7 maanden celstraf</td></tr>
  <tr><td>[CAT1] Hinderen gerechtigheid</td><td>10 taakstraffen of 7 maanden celstraf</td></tr>
  <tr><td>[CAT1] Verstoren van openbare orde</td><td>10 taakstraffen of 7 maanden celstraf</td></tr>

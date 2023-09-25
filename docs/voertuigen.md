@@ -20,6 +20,7 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden (im
  <tr><td>BMW X6M</td></tr>
  <tr><td>BMW X6M Wide body</td></tr>
  <tr><td>BMW X7</td></tr>
+ <tr><td>Cadillac Escalade</td></tr>
  <tr><td>Can-Am Offroad</td></tr>
  <tr><td>Chevrolet C10</td></tr>
  <tr><td>Fietsen BMX</td></tr>

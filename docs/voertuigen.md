@@ -160,6 +160,7 @@ Bij overvallen is het niet toegestaan om gebruik te maken van Hypercars. Hyperca
  <tr><td>Bugatti Chiron Super Sport</td></tr>
  <tr><td>Bugatti Divo</td></tr>
  <tr><td>Bugatti La Voiture</td></tr>
+ <tr><td>Bugatti Mistral</td></tr>
  <tr><td>Bugatti Veyron</td></tr>
  <tr><td>Ferrari Enzo MIG-U1</td></tr>
  <tr><td>Ferrari LaFerrari</td></tr>

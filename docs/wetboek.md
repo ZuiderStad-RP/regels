@@ -31,7 +31,7 @@ Hieronder zie je per categorie de borgsom die je kunt betalen om vrij te komen.
 <table>
 <thead><th>Categorie</th><th>Straf</th><tbody>
  <tr><td>[CAT1] Softdrugs (wiet >5 op zak)</td><td>6 taken per 2 items</td></tr>
- <tr><td>[CAT3] Harddrugs (Coke en meth)</td><td>10 Maanden celstraf per 5 items</td></tr>
+ <tr><td>[CAT3] Harddrugs (Coke, meth en heroïne)</td><td>2 Maanden celstraf per 5 items</td></tr>
  <tr><td>[CAT4] Produceren / verkopen van drugs</td><td>20 Maanden celstraf</td></tr>
 </tbody></table>
 
@@ -58,6 +58,7 @@ Hieronder zie je per categorie de borgsom die je kunt betalen om vrij te komen.
  <tr><td>[CAT1] Illegaal u-bocht maken</td><td>€1.500 boete</td></tr>
  <tr><td>[CAT1] Illegaal voertuig stoppen</td><td>€2.000 boete</td></tr>
  <tr><td>[CAT1] Spookrijden</td><td>€2.000 boete</td></tr>
+ <tr><td>[CAT2] Rijden onder invloed (alcohol, drugs)</td><td>10 taken, €2.000 boete</td></tr>
  <tr><td>[CAT2] Roekeloos rijgedrag</td><td>10 taken, €2.000 boete</td></tr>
  <tr><td>[CAT2] Opgeven van valse voertuig informatie </td><td>10 taken, €2.000 boete</td></tr>
  <tr><td>[CAT2] Gestolen voertuig berijden </td><td>10 taken, €2.000 boete</td></tr>
@@ -76,6 +77,7 @@ Hieronder zie je per categorie de borgsom die je kunt betalen om vrij te komen.
  <tr><td>[CAT1] Vernieling en Vandalisme</td><td>10 taakstraffen of 7 maanden celstraf</td></tr>
  <tr><td>[CAT1] Hinderen gerechtigheid</td><td>10 taakstraffen of 7 maanden celstraf</td></tr>
  <tr><td>[CAT1] Verstoren van openbare orde</td><td>10 taakstraffen of 7 maanden celstraf</td></tr>
+ <tr><td>[CAT3] Huisvredebreuk (privé terrein)</td><td>10 taakstraffen of 7 maanden celstraf</td></tr>
  <tr><td>[CAT3] Negeren ambtelijk bevel</td><td>15 taakstraffen of 10 maanden celstraf</td></tr>
  <tr><td>[CAT3] Belediging ambtenaar in functie</td><td>15 taakstraffen of 10 maanden celstraf</td></tr>
  <tr><td>[CAT3] Beroving burger</td><td>20 taakstraffen of 15 maanden celstraf</td></tr>

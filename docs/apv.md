@@ -108,7 +108,7 @@ Dit artikel richt zich op situaties van 'Fail RP', waarin realistische Roleplay 
 <li>4e overtreding: Categorie 7</li>
 <li>5e overtreding: Categorie 8</li>
 
-## Artikel 14 – Offroad
+## Artikel 14 - Offroad
 Wanneer iemand een normaal voertuig, die niet geschikt is voor offroad, toch offroad gebruikt. Deze regel geldt ook voor overheidsdiensten.
 <li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 1</li>
@@ -116,7 +116,7 @@ Wanneer iemand een normaal voertuig, die niet geschikt is voor offroad, toch off
 <li>4e overtreding: Categorie 7</li>
 <li>5e overtreding: Categorie 8</li>
 
-## Artikel 15 – Stemvervormer
+## Artikel 15 - Stemvervormer
 Een speler mag alleen een stemvervormer gebruiken wanneer zijn/haar beroep dit toelaat of wanneer de speler een masker draagt.
 <li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 1</li>
@@ -145,7 +145,7 @@ Een speler die binnen 10 minuten na een RP scenario zijn/haar wapens opbergt.
 <li>3e overtreding: Categorie 6</li>
 <li>4e overtreding: Categorie 8</li>
 
-## Artikel 18a – Copbaiten
+## Artikel 18a - Copbaiten
 Een speler die moedwillig ambtenaren uitlokt, achtervolgt of anderzijds verveeld met de intentie de ambtenaar te irriteren zonder dat er enige vorm van RP achter zit.
 <li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 3</li>
@@ -166,8 +166,8 @@ Een speler die geen onderdeel is van een RP scenario en actief het scenario gaat
 <li>3e overtreding: Categorie 6</li>
 <li>4e overtreding: Categorie 8</li>
 
-## Artikel 19 - Racisme/Seksisme
-Een speler die racistisch of seksistisch handelt of racistische/seksistische opmerkingen maakt.
+## Artikel 19 - Racisme/Seksisme/Bedreigen
+Een speler die racistisch of seksistisch handelt of racistische/seksistische opmerkingen maakt of een speler die een andere speler of Staff buiten de RP om bedreigt.
 <li>1e overtreding: Categorie 8</li>
 
 ## Artikel 20 - Metagaming
@@ -257,7 +257,7 @@ Het is niet toegestaan om iemand te ontvoeren of een overval te plegen zonder da
 <li>3e overtreding: Categorie 6</li>
 <li>4e overtreding: Categorie 8</li>
 
-## Artikel 28 – Lekke band
+## Artikel 28 - Lekke band
 Wanneer een of meerdere banden lek zijn, is het niet toegestaan om harder te rijden dan 80 km/u. Wanneer je op de velg rijdt is het niet toegestaan harder te rijden dan 40km/u. Op een motor is het verboden om op de velg te rijden.
 <li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 3</li>

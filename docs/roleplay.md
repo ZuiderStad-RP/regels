@@ -68,6 +68,8 @@ Onder overheidsobjecten vallen voorwerpen zoals: medkits, repair kits, politie/k
  <tr><td>2.20</td><td>Het is niet toegestaan om een auto met drugs in je garage te zetten en ze op een andere plek uit de garage te halen en op deze manier eventuele controles te vermijden. Wanneer je drugs wil transporteren naar een andere locatie dan dien je de auto fysiek er heen te rijden. De auto in een garage zetten en op een andere plek er uit halen is verboden en valt onder Fail RP. Indien je hierop betrapt wordt, wordt naast de straf die bij Artikel 13 hoort ook al je drugs in beslag genomen</td><td>Artikel 13</td></tr>
  <tr><td>2.21</td><td>Het is niet toegestaan om je wapen binnen 10 minuten weg te leggen nadat je deze vast hebt gehad. Je mag binnen deze 10 minuten ook niet wachten in ganghuis of appartement</td><td>Artikel 17b</td></tr>
  <tr><td>2.22</td><td>Het is niet toegestaan om zonder wapen iemand te ontvoeren of een overval te starten. Een "wapen" zoals een brandblusser wordt niet gezien als geldig wapen om een overval mee te starten</td><td>Artikel 27d</td></tr>
+ <tr><td>2.23</td><td>Het is niet toegestaan om willekeurige plaatsen, personen of voertuigen in brand te steken middels een jerrycan zonder dat hier een geldig RP scenario aan verbonden is. Ook het gieten van benzine (zonder dit aan te steken) zonder geldig RP scenario is niet toegestaan</td><td>Artikel 13</td></tr>
+ <tr><td>2.24</td><td>In verband met vedrinkingsgevaar en stroming is het niet toegestaan om tijdens een achtervolging voor meer dan 15 aaneengesloten minuten te zwemmen in zee. In meren en ander soort water is dit 20 minuten</td><td>Artikel 21</td></tr>
 </tbody></table>
 
 ## 3. Regels voor gijzelen/overval/doden
@@ -108,6 +110,7 @@ Mensen met een functie als Politie, KMAR, Ambulance, ANWB en Handhaving worden b
  <tr><td>4.9</td><td>Als je uit dienst bent en je hebt een overheidsbaan dan is het verboden om je werkuitrusting bij je of aan te hebben, denk hierbij aan het bij je hebben van politiewapens, medkits en andere werk-gerelateerde items. Bepaalde functies hebben hier vrijstelling voor</td><td>Artikel 13</td></tr>
  <tr><td>4.10</td><td>Het is niet toegestaan om als ambtenaar de dienstverlening zonder geldige reden te weigeren. Voorbeeld: wanneer jij bijvoorbeeld als ANWB'er slecht wordt behandeld door een klant, dan heb je een geldige reden de dienstverlening te weigeren. Wanneer jij als ambulancier weigert iemand te onderzoeken omdat een omstander zegt "die valt niet meer te redden", dan is dit niet toegestaan</td><td>Artikel 9</td></tr>
  <tr><td>4.11</td><td>Ghosten (in dienst gaan zonder op meldingen af te gaan) is verboden</td><td>Artikel 8</td></tr>
+ <tr><td>4.12</td><td>Wanneer een inwoner wordt veroordeeld voor 40 maanden of meer celstraf dan gelden de volgende regels: 1. Wanneer er minimaal 6 agenten in de stad zijn, wordt de verdachte altijd getransporteerd naar de gevangenis. Wanneer er minimaal 4 agenten in de stad zijn (maar minder dan 6), dan krijgt de verdachte de keuze om getransporteerd te worden. Bij de aanwezigheid van 3 agenten of minder ligt de keuze bij de politie. KMAR telt mee in deze telling</td><td>Artikel 13</td></tr>
 </tbody></table>
 
 ## 5. Overige regels
@@ -123,5 +126,6 @@ Mensen met een functie als Politie, KMAR, Ambulance, ANWB en Handhaving worden b
  <tr><td>5.8</td><td>Het is niet toegestaan om zaken zoals het vastbinden en afpakken van wapens (fictief) te keybinden zodat je dit in ieder scenario heel snel kunt gebruiken. In het echt kun je dit ook niet in een fractie van een seconde doen</td><td>Artikel 21</td></tr>
  <tr><td>5.9</td><td>Wanneer een of meerdere van je banden lek zijn mag je niet harder dan 80 km/h. Wanneer je op een velg rijdt, mag je niet harder rijden dan 40 km/h. Op een motor is het verboden om op de velg te rijden</td><td>Artikel 28</td></tr>
  <tr><td>5.10</td><td>Het is niet toegestaan om met een normaal (niet off-road voertuig) off-road te rijden, ook niet voor kleine stukken. Ook niet als je er off-road banden onder gemonteerd hebt</td><td>Artikel 14</td></tr>
- <tr><td>5.11</td><td> Een heli mag je alleen landen op daarvoor bestemde plekken zoals een heli platform en op (grote) verlaten parkeerplaatsen. Een heli mag nooit worden geland op onverharde parkeerplaatsen. Deze regels gelden niet voor de trauma heli</td><td>Artikel 13</td></tr>
+ <tr><td>5.11</td><td>Een heli mag je alleen landen op daarvoor bestemde plekken zoals een heli platform en op (grote) verlaten parkeerplaatsen. Een heli mag nooit worden geland op onverharde parkeerplaatsen. Deze regels gelden niet voor de trauma heli</td><td>Artikel 13</td></tr>
+ <tr><td>5.12</td><td>Het is niet toegestaan om met een aanhanger off-road te rijden, ook niet wanneer deze bevestigd is een off-road voertuig</td><td>Artikel 13</td></tr>
 </tbody></table>

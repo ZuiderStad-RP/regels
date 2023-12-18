@@ -8,24 +8,29 @@ In ZuiderStad is het enkel voor offroad voertuigen toegestaan om offroad te rijd
 Alle voertuigen binnen ZuiderStad mogen op onverharde wegen rijden. Onder onverharde wegen verstaan we wegen die niet geasfalteerd zijn, maar wel duidelijk een weg of pad vormen en op de kaart ook als weg worden aangeduid.
 
 ## Offroad voertuigen
-Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden (importvoertuigen staan niet op deze lijst):
+Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden:
 ### Burger offroad voertuigen
 <table>
 <thead><th>Burger offroad voertuigen</th></tr></thead><tbody>
  <tr><td>Alfa Romeo Stelvio</td></tr>
  <tr><td>Aston Martin DBX</td></tr>
+ <tr><td>Audi SQ5</td></tr>
  <tr><td>Audi SQ7 2016</td></tr>
  <tr><td>Baja69 Offroad</td></tr>
  <tr><td>Bentley Bentayga ST</td></tr>
+ <tr><td>BMW X5</td></tr>
  <tr><td>BMW X6M</td></tr>
  <tr><td>BMW X6M Wide body</td></tr>
  <tr><td>BMW X7</td></tr>
+ <tr><td>BMW X7 Mansory</td></tr>
  <tr><td>Cadillac Escalade</td></tr>
  <tr><td>Can-Am Offroad</td></tr>
  <tr><td>Chevrolet C10</td></tr>
- <tr><td>Fietsen BMX</td></tr>
- <tr><td>Fietsen Mountainbike</td></tr>
+ <tr><td>Cupra Formentor</td></tr>
+ <tr><td>Fiets - BMX</td></tr>
+ <tr><td>Fiets - Mountainbike</td></tr>
  <tr><td>Ford Bronco</td></tr>
+ <tr><td>Ford F150 Raptor</td></tr>
  <tr><td>Ford F150 XLT</td></tr>
  <tr><td>Ford Raptor</td></tr>
  <tr><td>Ford Velociraptor 6X6</td></tr>
@@ -33,30 +38,44 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden (im
  <tr><td>Hummer Alpha H1 (Open)</td></tr>
  <tr><td>Humvee Unarmed</td></tr>
  <tr><td>Jeep Gladiator</td></tr>
+ <tr><td>Jeep Grand Cherokee Trackhawk</td></tr>
  <tr><td>Jeep Rubicon</td></tr>
- <tr><td>Ktm Exc530</td></tr>
+ <tr><td>Jeep SRT 2018 Hennessey</td></tr>
+ <tr><td>John Deere Traktor</td></tr>
+ <tr><td>Kamaz 6350</td></tr>
+ <tr><td>Kawasaki KXF450</td></tr>
+ <tr><td>KTM EXC 2020</td></tr>
+ <tr><td>Ktm EXC530</td></tr>
  <tr><td>KTM X Offroad</td></tr>
  <tr><td>Land Rover Defender</td></tr>
+ <tr><td>Land Rover Defender 90</td></tr>
+ <tr><td>Lincoln Navigator</td></tr>
  <tr><td>Mercedes Brabus D35</td></tr>
  <tr><td>Mercedes Brabus G800</td></tr>
  <tr><td>Mercedes Brabus GLS 800</td></tr>
+ <tr><td>Mercedes G63 Mansory</td></tr>
  <tr><td>Mercedes G65 AMG</td></tr>
  <tr><td>Mercedes G65 AMG 6x6</td></tr>
  <tr><td>Mercedes G65 AMG-R</td></tr>
  <tr><td>Mercedes G650</td></tr>
+ <tr><td>Mercedes G700 Manhart</td></tr>
  <tr><td>Mercedes GLE450</td></tr>
  <tr><td>Mercedes GLE63S</td></tr>
+ <tr><td>Mercedes GLS Maybach</td></tr>
  <tr><td>Nissan Titan</td></tr>
  <tr><td>Porsche Cayenne</td></tr>
  <tr><td>Porsche Macan</td></tr>
  <tr><td>Porsche Macan Ursa</td></tr>
  <tr><td>Quad</td></tr>
- <tr><td>Ram 2500</td></tr>
- <tr><td>Ram TRX</td></tr>
+ <tr><td>RAM 2500</td></tr>
+ <tr><td>RAM 3500</td></tr>
+ <tr><td>RAM TRX</td></tr>
  <tr><td>Range Rover Evoque</td></tr>
+ <tr><td>Range Rover SVR</td></tr>
  <tr><td>Range Rover SVR Mansory</td></tr>
  <tr><td>Range Rover Velar</td></tr>
  <tr><td>Range Rover Vogue 2014</td></tr>
+ <tr><td>Range Rover Vogue Mansory</td></tr>
  <tr><td>Sanchez 1</td></tr>
  <tr><td>Sanchez 2</td></tr>
  <tr><td>Tesla CyberTruck</td></tr>
@@ -83,7 +102,6 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden (im
  <tr><td>Winky Safari Jeep</td></tr>
  <tr><td>Youga Offroad Transporter</td></tr>
 </tbody></table>
-
 
 ### Politie offroad voertuigen
 <table>
@@ -149,30 +167,40 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden (im
 </tbody></table>
 
 ## Hypercars
-Bij overvallen is het niet toegestaan om gebruik te maken van Hypercars. Hypercars geven een onrealistisch voordeel bij het plegen van een overval. Het gebruiken van een Hypercar bij een overval valt onder Artikel 13 - FailRP. Hieronder vind je een overzicht van alle Hypercars in ZuiderStad (importvoertuigen staan niet op deze lijst).
+Bij overvallen is het niet toegestaan om gebruik te maken van Hypercars. Hypercars geven een onrealistisch voordeel bij het plegen van een overval. Het gebruiken van een Hypercar bij een overval valt onder Artikel 13 - FailRP. Hieronder vind je een overzicht van alle Hypercars in ZuiderStad.
 
 <table>
 <thead><th>Hypercars</th></tr></thead><tbody>
+ <tr><td>Aston Martin Valkyrie TrackPack</td></tr>
  <tr><td>Aston Martin Vulcan</td></tr>
  <tr><td>Bugatti Atlantic</td></tr>
  <tr><td>Bugatti Bolide</td></tr>
+ <tr><td>Bugatti Centodieci</td></tr>
  <tr><td>Bugatti Chiron</td></tr>
  <tr><td>Bugatti Chiron 300</td></tr>
+ <tr><td>Bugatti Chiron Hermes</td></tr>
+ <tr><td>Bugatti Chiron Mansory Centuria</td></tr>
  <tr><td>Bugatti Chiron Super Sport</td></tr>
  <tr><td>Bugatti Divo</td></tr>
  <tr><td>Bugatti La Voiture</td></tr>
- <tr><td>Bugatti Mistral</td></tr>
+ <tr><td>Bugatti Mistral 2023</td></tr>
  <tr><td>Bugatti Veyron</td></tr>
+ <tr><td>Bugatti Veyron Mansory</td></tr>
  <tr><td>Ferrari Enzo MIG-U1</td></tr>
+ <tr><td>Ferrari F8 Keyvany Spider</td></tr>
  <tr><td>Ferrari LaFerrari</td></tr>
  <tr><td>Ferrari P80</td></tr>
- <tr><td>Hennessey Venom F5</td></tr>
  <tr><td>Koenigsegg Agera</td></tr>
+ <tr><td>Koenigsegg Agera</td></tr>
+ <tr><td>Koenigsegg Agera RS Draken 2018</td></tr>
  <tr><td>Koenigsegg CCX</td></tr>
  <tr><td>Koenigsegg Gemera</td></tr>
  <tr><td>Koenigsegg Jesko</td></tr>
+ <tr><td>Koenigsegg Regera</td></tr>
+ <tr><td>Koenigsegg Regera 2016 Roadster</td></tr>
  <tr><td>Lamborghini Aventador</td></tr>
  <tr><td>Lamborghini Aventador LP700</td></tr>
+ <tr><td>Lamborghini Aventador LP780/4 Ultimae</td></tr>
  <tr><td>Lamborghini Aventador SVJ 63</td></tr>
  <tr><td>Lamborghini Centenario LP770</td></tr>
  <tr><td>Lamborghini Countach LPI 800-4</td></tr>
@@ -185,21 +213,29 @@ Bij overvallen is het niet toegestaan om gebruik te maken van Hypercars. Hyperca
  <tr><td>Lamborghini Veneno</td></tr>
  <tr><td>McLaren GTR 1996</td></tr>
  <tr><td>McLaren Senna</td></tr>
+ <tr><td>McLaren Senna Carbon MSO 2018</td></tr>
  <tr><td>McLaren Senna GTR</td></tr>
  <tr><td>McLaren Speedtail</td></tr>
  <tr><td>McLaren Speedtail</td></tr>
  <tr><td>Mercedes AMG One</td></tr>
+ <tr><td>Overige merken - Apollo Evo</td></tr>
+ <tr><td>Overige merken - Devel Sixteen</td></tr>
+ <tr><td>Overige merken - Hennessey Venom F5</td></tr>
+ <tr><td>Overige merken - Pininfarina Battista</td></tr>
+ <tr><td>Overige merken - Rimac Concept Two</td></tr>
+ <tr><td>Overige merken - Rimac Nevera 2021</td></tr>
+ <tr><td>Overige merken - Scuderia Scg003S</td></tr>
+ <tr><td>Overige merken - SRT Tomahawk</td></tr>
+ <tr><td>Overige merken - W Motors Fenyr Supersport</td></tr>
  <tr><td>Pagani Huayra BC</td></tr>
  <tr><td>Pagani Imola</td></tr>
- <tr><td>Scuderia Scg003S</td></tr>
  <tr><td>Tesla Roadster</td></tr>
  <tr><td>Toyota Supra MK4</td></tr>
  <tr><td>Toyota Supra MK4 Castrol</td></tr>
- <tr><td>W Motors Fenyr Supersport</td></tr>
 </tbody></table>
 
 ## Superbikes
-Bij overvallen is het niet toegestaan om gebruik te maken van Superbikes. Superbikes geven een onrealistisch voordeel bij het plegen van een overval. Het gebruiken van een Superbike bij een overval valt onder Artikel 13 - FailRP. Hieronder vind je een overzicht van alle Superbikes in ZuiderStad (importvoertuigen staan niet op deze lijst).
+Bij overvallen is het niet toegestaan om gebruik te maken van Superbikes. Superbikes geven een onrealistisch voordeel bij het plegen van een overval. Het gebruiken van een Superbike bij een overval valt onder Artikel 13 - FailRP. Hieronder vind je een overzicht van alle Superbikes in ZuiderStad.
 <table>
 <thead><th>Superbikes</th></tr></thead><tbody>
  <tr><td>BMW M1000RR</td></tr>

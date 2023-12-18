@@ -30,7 +30,7 @@ Speler die misbruik maakt van de new life rule (dus nadat je weer tot leven bent
 <li>4e overtreding: Categorie 8</li>
 
 ## Artikel 3 - No Value of Life
-Speler hecht geen waarde aan zijn/haar leven. Bijvoorbeeld: rare dingen doen die de kans vergroten op letsel of omkoming, of een wapen trekken, terwijl er een wapen op je gericht staat
+Speler hecht geen waarde aan zijn/haar leven of het leven van een ander. Bijvoorbeeld: rare dingen doen die de kans vergroten op letsel of omkoming, of een wapen trekken, terwijl er een wapen op je gericht staat
 <li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 2</li>
 <li>3e overtreding: Categorie 5</li>

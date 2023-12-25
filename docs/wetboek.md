@@ -80,10 +80,13 @@ Hieronder zie je per categorie de borgsom die je kunt betalen om vrij te komen.
  <tr><td>[CAT3] Huisvredebreuk (privé terrein)</td><td>10 taakstraffen of 7 maanden celstraf</td></tr>
  <tr><td>[CAT3] Negeren ambtelijk bevel</td><td>15 taakstraffen of 10 maanden celstraf</td></tr>
  <tr><td>[CAT3] Belediging ambtenaar in functie</td><td>15 taakstraffen of 10 maanden celstraf</td></tr>
+ <tr><td>[CAT3] Medeplichtig aan poging tot ongewapende overval</td><td>15 taakstraffen of 10 maanden celstraf</td></tr>
  <tr><td>[CAT3] Beroving burger</td><td>20 taakstraffen of 15 maanden celstraf</td></tr>
  <tr><td>[CAT3] Inbraak</td><td>20 taakstraffen of 15 maanden celstraf</td></tr>
  <tr><td>[CAT3] Bedreiging ambtenaar in functie </td><td>20 taakstraffen of 15 maanden celstraf</td></tr>
  <tr><td>[CAT3] Medeplichtig aan ongewapende overval</td><td>25 taakstraffen of 17 maanden celstraf</td></tr>
+ <tr><td>[CAT3] Medeplichtig aan poging tot gewapende overval</td><td>25 taakstraffen of 17 maanden celstraf</td></tr>
+ <tr><td>[CAT3] Poging tot ongewapende overval</td><td>25 taakstraffen of 17 maanden celstraf</td></tr>
  <tr><td>[CAT3] Vluchten van de politie</td><td>20 maanden celstraf</td></tr>
  <tr><td>[CAT4] Bezit zwartgeld</td><td>5 maanden celstraf per €10.000</td></tr>
  <tr><td>[CAT4] Zichtbaar tonen van vuurwapen</td><td>20 maanden celstraf</td></tr>
@@ -91,6 +94,7 @@ Hieronder zie je per categorie de borgsom die je kunt betalen om vrij te komen.
  <tr><td>[CAT4] Medeplichtig aan gewapende overval</td><td>20 maanden celstraf</td></tr>
  <tr><td>[CAT4] Gijzeling burger</td><td>20 maanden celstraf</td></tr>
  <tr><td>[CAT4] Ongewapende overval</td><td>20 maanden celstraf</td></tr>
+ <tr><td>[CAT4] Poging tot gewapende overval</td><td>20 maanden celstraf</td></tr>
  <tr><td>[CAT4] Mishandeling ambtenaar in functie </td><td>25 maanden celstraf</td></tr>
  <tr><td>[CAT4] Inbraak gevangenis</td><td>30 maanden celstraf</td></tr>
  <tr><td>[CAT4] Poging doodslag burger</td><td>30 maanden celstraf</td></tr>

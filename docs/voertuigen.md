@@ -164,6 +164,7 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden:
  <tr><td>Toyota TRD Pro (geavanceerd)</td></tr>
  <tr><td>Volkswagen Amarok</td></tr>
  <tr><td>Volvo XC90</td></tr>
+ <tr><td>Offroad Motor</td></tr>
 </tbody></table>
 
 ## Hypercars

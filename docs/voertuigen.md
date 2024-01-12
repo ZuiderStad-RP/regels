@@ -219,6 +219,7 @@ Bij overvallen is het niet toegestaan om gebruik te maken van Hypercars. Hyperca
  <tr><td>McLaren Speedtail</td></tr>
  <tr><td>McLaren Speedtail</td></tr>
  <tr><td>Mercedes AMG One</td></tr>
+ <tr><td>Nissan Skyline (alle uitvoeringen)</td></tr>
  <tr><td>Overige merken - Apollo Evo</td></tr>
  <tr><td>Overige merken - Devel Sixteen</td></tr>
  <tr><td>Overige merken - Hennessey Venom F5</td></tr>

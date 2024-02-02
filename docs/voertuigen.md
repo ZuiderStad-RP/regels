@@ -47,6 +47,7 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden:
  <tr><td>KTM EXC 2020</td></tr>
  <tr><td>Ktm EXC530</td></tr>
  <tr><td>KTM X Offroad</td></tr>
+ <tr><td>Lamborghini Sterrato 2020</td></tr>
  <tr><td>Land Rover Defender</td></tr>
  <tr><td>Land Rover Defender 90</td></tr>
  <tr><td>Lincoln Navigator</td></tr>

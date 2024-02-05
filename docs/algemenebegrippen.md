@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 # Begrippen
-Wanneer je in ZuiderStad komt spelen dan zul je een aantal begrippen en afkoringen vaker horen. Daarnaast worden verschillende van deze begrippen benoemd in de APV en overige regels. Hieronder vind je een begrippenlijst.
+Wanneer je in ZuiderStad komt spelen dan zul je een aantal begrippen en afkortingen vaker horen. Daarnaast worden verschillende van deze begrippen benoemd in de APV en overige regels. Hieronder vind je een begrippenlijst.
 
 <li><strong>RP - Roleplay</strong></li>
 <li><strong>APV - Algemene Plaatselijke Verordening:</strong> In de Algemene Plaatselijke Verordening, oftewel APV, staat de regelgeving die in ZuiderStad geldt. De APV gaat in op regelgeving rondom openbare orde en veiligheid.

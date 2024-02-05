@@ -5,7 +5,9 @@
 <li>Een warn is altijd 50 taakstraffen</li>
 <li>Het staat een stafflid vrij om een hogere of lagere straf uit te delen. Een stafflid is bepalend in het uitdelen van de straf. Een straf kan enkel door het betreffende stafflid of een hogere rang stafflid worden opgeheven</li>
 <li>Als een straf wordt opgelegd, zal elk voordeel dat een speler heeft verkregen en aanleiding gaf tot de straf, worden geconfisqueerd</li>
-<li>Voor vrijwel elk artikel staan voorbeelden die je vind in <a href="https://regels.zuiderstad.nl/roleplay/">Roleplay Regels</a></li>
+<li>Voor vrijwel elk artikel zijn voorbeelden te vinden in <a href="https://regels.zuiderstad.nl/roleplay/">Roleplay Regels</a></li>
+<li>Staff kan als aanvullende straf beslissen om een accountwipe uit te voeren indien hier aanleiding voor is</li>
+<li>Het aanzetten van anderen tot het overtreden van de APV regels zal worden bestraft met dezelfde straf die hoort bij het geldende artikel</li>
 
 ## Straf categorieën
 <li><b>Categorie 1</b> is een ingame warn met het daarbij behorend aantal taakstraffen.</li>

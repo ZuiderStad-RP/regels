@@ -5,7 +5,7 @@ Je bent respectvol naar andere mensen in de Discord. Daarnaast ga je te allen ti
 <li>Straf: afhankelijk van de ernst van de overtreding, minimaal een timeout van 1 uur</li>
 
 ## Spam
-Het spammen (snel acheter elkaar berichten versturen) is niet toegestaan
+Het spammen (snel achter elkaar berichten versturen) is niet toegestaan
 <li>Straf: timeout van 3 uur</li>
 
 ## Promotie
@@ -13,7 +13,7 @@ Promotie van andere servers, of bijvoorbeeld je socials en alle andere vormen va
 <li>Straf: permanente ban</li>
 
 ## Streams
-Het delen van video's en streams die je op je eigen platform hebt gepubliceerd is niet toegestaan. Alleen contect creaters mogen dit in het daarvoor bestemde kanaal. Wil je content creator worden? Maak hiervoor dan een ticket aan in onze Support Discord.
+Het delen van video's en streams die je op je eigen platform hebt gepubliceerd is niet toegestaan. Alleen content creators mogen dit in het daarvoor bestemde kanaal. Wil je content creator worden? Maak hiervoor dan een ticket aan in onze Support Discord.
 <li>Straf: timeout van 12 uur</li>
 
 ## Soundboards

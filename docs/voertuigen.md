@@ -154,6 +154,7 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden:
  <tr><td>Ford F150</td></tr>
  <tr><td>Lichte motor BMW</td></tr>
  <tr><td>MB GLC</td></tr>
+ <tr><td>Volkswagen Amarok</td></tr>
  <tr><td>Volvo XC40</td></tr>
  <tr><td>Volvo XC90</td></tr>
 </tbody></table>

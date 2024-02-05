@@ -6,7 +6,7 @@ hide:
 # Home
 
 ##Welkom bij ZuiderStad Roleplay!
-Welkom bij de Algemene Plaatselijke Verordening (APV) van ZuiderStad RP. Deze verordening vormt de kern van de spelregels en gedragsnormen die gelden binnen onze virtuele gemeenschap. Je vind hier uitgebreide informatie omtrent de wet- en regelgeving die de basis vormt voor het goed functioneren van onze stad.
+Welkom bij de Algemene Plaatselijke Verordening (APV) van ZuiderStad RP. Deze verordening vormt de kern van de spelregels en gedragsnormen die gelden binnen onze virtuele gemeenschap. Je vindt hier uitgebreide informatie omtrent de wet- en regelgeving die de basis vormt voor het goed functioneren van onze stad.
 
 Het is van belang dat je vertrouwd bent met de inhoud van deze verordening voordat je je onderdompelt in onze Roleplay-ervaring. Door de regels te begrijpen en na te leven, draag je bij aan een realistische en plezierige ervaring voor alle inwoners.
 

@@ -126,7 +126,7 @@ Een speler geeft een oneerlijke of onrealistisch draai aan de RP. Bijvoorbeeld w
 
 ## Artikel 18 - Corruptie
 Wanneer een overheidsmedewerker corrupt is, bijvoorbeeld iemand binnen de politie die de onderwereld aan informatie helpt of wanneer een speler een overheidsbaan (onder een overheidsbaan verstaan we Politie, KMAR, Handhaving, Ambulance en ANWB) deelneemt aan criminele activiteiten.
-<li>1e overtreding: Boete van 500K + melding naar leiding, die bepaald of je ontslagen wordt</li>
+<li>1e overtreding: Boete van 500K + melding naar leiding, die bepaalt of je ontslagen wordt</li>
 <li>2e overtreding: Boete van 1 miljoen + ontslag</li>
 <li>3e overtreding: Boete van 2,5 miljoen + ontslag + permanente overheidsjob blacklist</li>
 
@@ -179,7 +179,7 @@ Hieronder vallen onder andere volgende zaken:
 1. Het ontvoeren van iemand die indienst is met een overheidsbaan wanneer dit niet is toegestaan volgens de <a href="https://regels.zuiderstad.nl/roleplay/">Roleplay Regels</a>.
 2. Het afpakken van items die gerelateerd zijn aan een overheidsbaan.
 3. Het vermoorden van een speler die je ript maar die wel meewerkt. De reden "anders herkent de speler mij" is geen goede reden, dan moet je zorgen dat je een vermomming, masker en stemvervormer gebruikt wanneer je iemand gaat rippen.
-4. Het actief campen van drugs- en criminelelocaties met de intentie andere personen te rippen.
+4. Het actief campen van drugs- en criminele locaties met de intentie andere personen te rippen.
 <li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 3</li>
 <li>3e overtreding: Categorie 7</li>

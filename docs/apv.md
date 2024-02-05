@@ -5,6 +5,7 @@
 <li>Een warn is altijd 50 taakstraffen</li>
 <li>Het staat een stafflid vrij om een hogere of lagere straf uit te delen. Een stafflid is bepalend in het uitdelen van de straf. Een straf kan enkel door het betreffende stafflid of een hogere rang stafflid worden opgeheven</li>
 <li>Als een straf wordt opgelegd, zal elk voordeel dat een speler heeft verkregen en aanleiding gaf tot de straf, worden geconfisqueerd</li>
+<li>Voor vrijwel elk artikel staan voorbeelden die je vind in <a href="https://regels.zuiderstad.nl/roleplay/">Roleplay Regels</a></li>
 
 ## Straf categorieën
 <li><b>Categorie 1</b> is een ingame warn met het daarbij behorend aantal taakstraffen.</li>
@@ -16,161 +17,99 @@
 <li><b>Categorie 7</b> is een ban van 2 weken.</li>
 <li><b>Categorie 8</b> is een permanente ban.</li>
 
-## Artikel 1 - Startersgeld
-Het weggeven of in ontvangst nemen van het startersgeld van een andere speler.
-<li>1e overtreding: Categorie 5</li>
-<li>2e overtreding: Categorie 7</li>
-<li>3e overtreding: Categorie 8</li>
+## Artikel 1 - Cheaten/hacken
+Een speler die op een oneerlijke manier zichzelf voordeel geeft ten aanzien van andere spelers, bijvoorbeeld: geld, wapens of andere zaken inspawnen of het gebruiken van aimbots, ESP, crosshairs of andere hulpmiddelen.
+<li>1e overtreding: Categorie 8</li>
 
-## Artikel 2 - New Life Regel
-Speler die misbruik maakt van de new life rule (dus nadat je weer tot leven bent de vorige scenario's niet vergeten). Hieronder valt ook het aanvragen van een new life rule terwijl de speler hier geen recht op heeft of wanneer de roleplay om de speler heen nog bezig is.
+## Artikel 2 - Glitch abuse
+Een speler die glitches of bugs misbruikt om er persoonlijk voordeel (zoals geld, wapens of andere items) uit te halen. Als dit bij jou per ongeluk gebeurt, maak dan direct een ticket aan om een ban te voorkomen.
+<li>1e overtreding: Categorie 8</li>
+
+## Artikel 3 - Bug abuse
+Een speler die een bug actief misbruikt, bijvoorbeeld een bepaalde emote om in of uit een ruimte te gaan.
 <li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 2</li>
-<li>3e overtreding: Categorie 4</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 3 - No Value of Life
-Speler hecht geen waarde aan zijn/haar leven of het leven van een ander. Bijvoorbeeld: rare dingen doen die de kans vergroten op letsel of omkoming, of een wapen trekken, terwijl er een wapen op je gericht staat
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 2</li>
-<li>3e overtreding: Categorie 5</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 4 - Overheidsvoertuigen
-Het is verboden om overheidsvoertuigen te stelen. Onder overheidsvoertuigen vallen voertuigen van Politie, Ambulance, Taxi, Marechaussee, ANWB en Handhaving.
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 3</li>
-<li>3e overtreding: Categorie 6</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 5 - Onderwereld activiteiten met overheidsjob
-Wanneer een speler een overheidsbaan heeft (met uitzondering van Taxi) en deelneemt aan criminele activiteiten.
-<li>1e overtreding: Categorie 1 + melding naar leiding, die bepaald of je ontslagen wordt</li>
-<li>2e overtreding: Categorie 4 + ontslag</li>
-<li>3e overtreding: Categorie 7 + ontslag</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 6 - Ontvoeren van persoon met overheidsjob
-Wanneer een speler een persoon met overheidsbaan ontvoerd zonder daar een goede reden of wanneer dit niet is toegestaan volgens de roleplay regels
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 3</li>
+<li>2e overtreding: Categorie 4</li>
 <li>3e overtreding: Categorie 7</li>
 <li>4e overtreding: Categorie 8</li>
 
-## Artikel 7 - Pitten boven pitlimiet
-Wanneer je als overheidsdienst een PIT-manoeuvre uitvoert boven de toegestane snelheid (100 km/u voor alle eenheden, 120 km/u voor de verkeerspolitie, 150 km/u voor DSI), wordt een marge van maximaal 10% overschrijding gehanteerd.
+## Artikel 4 - Fail RP
+Het neerzetten van een onrealistisch scenario wordt gezien als 'Fail RP'. In dit geval wordt realistische Roleplay niet nageleefd. Hieronder vallen onder andere het willekeurig lastigvallen van anderen, het zonder reden aanvallen van mede-inwoners en alle handelingen die een gemiddeld persoon in het echte leven niet zonder duidelijke reden zou uitvoeren. In <a href="https://regels.zuiderstad.nl/roleplay/">Roleplay Regels</a> vind je meerdere voorbeelden die onder dit artikel vallen.
 <li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 2</li>
+<li>2e overtreding: Categorie 1</li>
 <li>3e overtreding: Categorie 4</li>
-<li>4e overtreding: Categorie 8</li>
+<li>4e overtreding: Categorie 7</li>
+<li>5e overtreding: Categorie 8</li>
 
-## Artikel 8 - Ghosten
-Wanneer een overheidsmedewerker in dienst is zonder daadwerkelijk te werken, dus aan het moneyfarmen is. Hieronder valt niet het wachten op een melding.
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 2</li>
-<li>3e overtreding: Categorie 6 + ontslag</li>
-<li>4e overtreding: Categorie 8</li>
+## Artikel 5 - Geen intentie tot RP
+Een speler die nieuw in de stad komt maar niet de intentie heeft om deel te nemen aan de roleplay in de stad.
+<li>1e overtreding: Categorie 8</li>
 
-## Artikel 9 - Weigeren van dienstverlening
-Wanneer een overheidsmedewerker weigert diensten te verlenen waarvan normaal verwacht wordt dat hij/zij dit uitvoert, zonder dat de medewerker hier een geldige reden voor heeft.
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 2</li>
-<li>3e overtreding: Categorie 4 + ontslag</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 10 - VDM
-Het opzettelijk aanrijden van een persoon. Bij een ongeval (een aanrijding zonder opzet) is er geen spraken van VDM.
+## Artikel 6 - VDM (Vehicle Death Match)
+Het opzettelijk aanrijden van een ander persoon met een voertuig. Bij een ongeval (een aanrijding zonder opzet) is er geen sprake van VDM.
 <li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 1</li>
 <li>3e overtreding: Categorie 4</li>
 <li>4e overtreding: Categorie 6</li>
 <li>5e overtreding: Categorie 8</li>
 
-## Artikel 11 - RDM
-Het random doodschieten van andere spelers zonder dat dit onderdeel is van de RP (een uitleg zoals “mijn personage is een psychopaat die iedereen wil doodschieten” is <b>geen</b> geldige reden).
+## Artikel 7 - RDM (Random Death Match)
+Zonder reden een ander persoon omleggen of een poging daartoe (een uitleg zoals “mijn personage is een psychopaat die iedereen wil doodschieten” is <b>geen</b> geldige reden).
 <li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 3</li>
 <li>3e overtreding: Categorie 5</li>
 <li>4e overtreding: Categorie 8</li>
 
-## Artikel 12 - GTA driving style
+## Artikel 8 - NLR (New Life Rule)
+Speler die misbruik maakt van de new life rule (de regel waarbij je een revive krijgt van staff, maar waarbij je alles wat er gebeurt is in je vorige leven dient te vergeten). Hieronder valt ook het aanvragen van een new life rule terwijl de speler hier geen recht op heeft, bijvoorbeeld wanneer de roleplay om de speler heen nog bezig is.
+<li>1e overtreding: Categorie 1</li>
+<li>2e overtreding: Categorie 2</li>
+<li>3e overtreding: Categorie 4</li>
+<li>4e overtreding: Categorie 8</li>
+
+## Artikel 9 - NVOL (No Value Of Life)
+Speler hecht geen waarde aan zijn/haar leven of het leven van een ander. Bijvoorbeeld: rare dingen doen die de kans vergroten op letsel of omkoming, of een wapen trekken, terwijl er een wapen op je gericht staat.
+<li>1e overtreding: Categorie 1</li>
+<li>2e overtreding: Categorie 2</li>
+<li>3e overtreding: Categorie 5</li>
+<li>4e overtreding: Categorie 8</li>
+
+## Artikel 10 - GTA driving style
 Wanneer iemand niet realistisch rijdt, bijvoorbeeld het nemen van stunt jumps.
 <li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 2</li>
 <li>3e overtreding: Categorie 4</li>
 <li>4e overtreding: Categorie 8</li>
 
-## Artikel 13 - Fail RP
-Dit artikel richt zich op situaties van 'Fail RP', waarin realistische Roleplay niet wordt nageleefd. Hieronder vallen onder andere het willekeurig lastigvallen van anderen, het zonder reden aanvallen van mede-inwoners en alle handelingen die een gemiddeld persoon in het echte leven niet zonder duidelijke reden zou uitvoeren.
+## Artikel 11 - Offroad
+Wanneer iemand een normaal voertuig, die niet geschikt is voor offroad, toch offroad gebruikt. Deze regel geldt ook voor overheidsdiensten. Een lijst met offroad geschikte voertuigen vind je <a href="https://regels.zuiderstad.nl/voertuigen/#offroad-voertuigen">hier</a>.
 <li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 1</li>
 <li>3e overtreding: Categorie 4</li>
 <li>4e overtreding: Categorie 7</li>
 <li>5e overtreding: Categorie 8</li>
 
-## Artikel 14 - Offroad
-Wanneer iemand een normaal voertuig, die niet geschikt is voor offroad, toch offroad gebruikt. Deze regel geldt ook voor overheidsdiensten.
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 1</li>
-<li>3e overtreding: Categorie 4</li>
-<li>4e overtreding: Categorie 7</li>
-<li>5e overtreding: Categorie 8</li>
-
-## Artikel 15 - Stemvervormer
-Een speler mag alleen een stemvervormer gebruiken wanneer zijn/haar beroep dit toelaat of wanneer de speler een masker draagt.
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 1</li>
-<li>3e overtreding: Categorie 4</li>
-<li>4e overtreding: Categorie 7</li>
-<li>5e overtreding: Categorie 8</li>
-
-## Artikel 16 - Praten als je dood bent
-Wanneer je dood bent mag je niet praten. Je mag enkel bepaalde info zoals de doodsoorzaak geven via /me. Alleen wanneer een ambulancemedewerker je een vraag steld en je in het RP scenario antwoord zou kunnen geven mag je praten wanneer je dood bent.
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 3</li>
-<li>3e overtreding: Categorie 6</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 17a - Combat loggen
-Een speler die binnen 10 minuten na overlijden of deelnemen aan een (crimineel) RP scenario uitlogt zonder daarbij een geldige reden te vermelden.
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 3</li>
-<li>3e overtreding: Categorie 6</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 17b - Combat stashen
-Een speler die binnen 10 minuten na een RP scenario zijn/haar wapens opbergt.
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 3</li>
-<li>3e overtreding: Categorie 6</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 18a - Copbaiten
-Een speler die moedwillig ambtenaren uitlokt, achtervolgt of anderzijds verveeld met de intentie de ambtenaar te irriteren zonder dat er enige vorm van RP achter zit.
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 3</li>
-<li>3e overtreding: Categorie 6</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 18b - Hinderen van overheid
-Een speler die moedwillig ambtenaren hindert bij het uitvoeren van hun werkzaamheden zonder enige vorm van RP.
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 3</li>
-<li>3e overtreding: Categorie 6</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 18c - Scenario’s verstoren
-Een speler die geen onderdeel is van een RP scenario en actief het scenario gaat verstoren.
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 3</li>
-<li>3e overtreding: Categorie 6</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 19 - Racisme/Seksisme/Bedreigen
-Een speler die racistisch of seksistisch handelt of racistische/seksistische opmerkingen maakt of een speler die een andere speler of Staff buiten de RP om bedreigt.
+## Artikel 12 - Promotie
+Elke vorm van promotie (zonder uitdrukkelijke toestemming van Hoge Raad) is niet toegestaan. Denk hierbij aan het sturen van discord server invites, het mondeling promoten van andere steden en alle andere manieren van promotie.
 <li>1e overtreding: Categorie 8</li>
 
-## Artikel 20 - Metagaming
+## Artikel 13 - Startersgeld
+Het weggeven of in ontvangst nemen van het geld, goederen, auto's en andere bezittingen van een andere speler die nieuw is in de stad en geen intentie heeft om actief te spelen in de stad.
+<li>1e overtreding: Categorie 6</li>
+<li>3e overtreding: Categorie 8</li>
+
+## Artikel 14 - Weggeven bij stoppen
+Het weggeven of in ontvangst nemen van het geld, goederen, auto's en andere bezittingen van een andere speler die stopt met het spelen in de stad.
+<li>1e overtreding: Categorie 6</li>
+<li>3e overtreding: Categorie 8</li>
+
+## Artikel 15 - Combat loggen/stashen
+Een speler die tijdens of binnen 10 minuten na deelnemen aan een (crimineel) RP scenario of overlijden uitlogt zonder daarbij een geldige reden te vermelden of binnen 10 minuten na een RP scenario zijn/haar wapens opbergt.
+<li>1e overtreding: Categorie 1</li>
+<li>2e overtreding: Categorie 3</li>
+<li>3e overtreding: Categorie 6</li>
+<li>4e overtreding: Categorie 8</li>
+
+## Artikel 16 - Metagamen
 Een speler die informatie ingame gebruikt die hij of zij heeft verkregen buiten zijn karakter. Hieronder valt alle informatie in externe Discords (denk aan rollen, steamnamen, streams, game-opnames en overige informatie uit chats en kanalen). De enige uitzondering hierop is informatie in <b>IC kanalen</b> van de <b>officiële</b> ZuiderStad Discords. Alle onofficiële kanalen zijn per definitie bestempeld als OOC, op informatie in deze Discords mag IC dan ook <b>nooit</b> gehandeld worden. Ook het zogenaamde "stream-snipen" (het gebruiken van informatie uit een livestream om zo bijvoorbeeld de streamer op te zoeken) valt onder Metagaming (met uitzondering van livestreams die ingame via de ingame Telefoon worden gestreamed). Het is (met uitzondering van overheidsdiensten en Staff) niet toegestaan om in een Discord call te zitten terwijl je ingame bent. Voor overheid gelden speciale porto protocollen, zodat wanneer zij de Discord Porto's gebruiken, ze ook ingame hoorbaar zijn. Het delen van IC informatie via OOC communicatie (denk aan OOC kanalen, onofficiële ZuiderStad Discords, privé gesprekken of op elke andere manier buiten officiële IC kanalen) met de intentie dat anderen deze informatie ingame gebruiken valt eveneens onder Metagaming. Ook het vragen naar IC informatie via OOC communicatie valt onder Metagaming.
 <li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 1</li>
@@ -178,126 +117,126 @@ Een speler die informatie ingame gebruikt die hij of zij heeft verkregen buiten 
 <li>4e overtreding: Categorie 7</li>
 <li>5e overtreding: Categorie 8</li>
 
-## Artikel 21 - Powergaming
-Een speler geeft een oneerlijke of onrealistisch draai aan de RP. Bijvoorbeeld wanneer iemand via “/me” is geboeid en na 2 seconden zegt “maakt zichzelf los met een pincet”. Hieronder valt ook het keybinden van bepaalde zaken zoals het fictief afpakken van de communicatiemiddelen van overheidsdiensten.
+## Artikel 17 - Powergamen
+Een speler geeft een oneerlijke of onrealistisch draai aan de RP. Bijvoorbeeld wanneer iemand via “/me” is geboeid zegt “maakt zichzelf los met een pincet”. Hieronder valt ook het keybinden van bepaalde zaken zoals het fictief afpakken van de noodknop van overheidsdiensten.
 <li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 3</li>
 <li>3e overtreding: Categorie 6</li>
 <li>4e overtreding: Categorie 8</li>
 
-## Artikel 22a - Cheaten/hacken
-Een speler die aan het hacken is en bijvoorbeeld, geld wapens, of andere zaken in spawned, of andere zaken die zonder hacken onmogelijk zijn. Onder hacken vallen ook aimbots en crosshairs.
-<li>1e overtreding: Categorie 8</li>
+## Artikel 18 - Corruptie
+Wanneer een overheidsmedewerker corrupt is, bijvoorbeeld iemand binnen de politie die de onderwereld aan informatie helpt of wanneer een speler een overheidsbaan (onder een overheidsbaan verstaan we Politie, KMAR, Handhaving, Ambulance en ANWB) deelneemt aan criminele activiteiten.
+<li>1e overtreding: Boete van 500K + melding naar leiding, die bepaald of je ontslagen wordt</li>
+<li>2e overtreding: Boete van 1 miljoen + ontslag</li>
+<li>3e overtreding: Boete van 2,5 miljoen + ontslag + permanente overheidsjob blacklist</li>
 
-## Artikel 22b - Bug abuse
-Een speler die een bug actief misbruikt, bijvoorbeeld een bepaalde emote om in of uit een ruimte te gaan.
+## Artikel 19 - Ghosten
+Wanneer een overheidsmedewerker in dienst is zonder daadwerkelijk te werken, dus aan het moneyfarmen is. Hieronder valt niet het wachten op een melding.
 <li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 4</li>
-<li>3e overtreding: Categorie 7</li>
+<li>2e overtreding: Categorie 2</li>
+<li>3e overtreding: Categorie 6 + ontslag</li>
 <li>4e overtreding: Categorie 8</li>
 
-## Artikel 22c - Glitches abuse
-Een speler die glitches of bugs misbruikt om er persoonlijk voordeel (zoals geld, wapens of andere items) uit te halen. Als dit bij jou per ongeluk gebeurt, maak dan direct een ticket aan om een ban te voorkomen.
-<li>1e overtreding: Categorie 8</li>
-
-## Artikel 23 - Geen microfoon
-Een werkende microfoon is verplicht om deel te kunnen nemen aan de Roleplay. Een zeer slecht werkende of geen microfoon zal worden bestraft.
+## Artikel 20 - Microfoon
+Een werkende microfoon is verplicht om deel te kunnen nemen aan de Roleplay. Een zeer slecht werkende microfoon of het niet hebben van een microfoon is niet toegestaan.
 <li>1e overtreding: Kick</li>
 <li>2e overtreding: Categorie 1</li>
 <li>3e overtreding: Categorie 4</li>
 <li>4e overtreding: Categorie 7</li>
 <li>5e overtreding: Categorie 8</li>
 
-## Artikel 24 - Overheids/staff kleding
-Het dragen van overheids- of staffkleding is verboden wanneer je geen overheidsfunctie of staff functie hebt.
-<li>1e overtreding: Verzoek om direct om te kleden</li>
+## Artikel 21 - Voicechanger
+Een speler mag alleen een stemvervormer gebruiken wanneer zijn/haar beroep dit toelaat of wanneer de speler een masker draagt.
+<li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 1</li>
-<li>3e overtreding: Categorie 3</li>
+<li>3e overtreding: Categorie 4</li>
 <li>4e overtreding: Categorie 7</li>
 <li>5e overtreding: Categorie 8</li>
 
-## Artikel 25 - Schelden met ziektes
-Het schelden met hedendaagse ziektes is verboden op alle kanalen. Dit kan ook nooit onderdeel zijn van je RP karakter. Schelden is verder toegestaan, mits dit binnen de RP past.
-<li>1e overtreding: Categorie 8, mogelijkheid tot een unban na het overmaken van een bedrag van €5 naar het KWF, via <a href="https://acties.kwf.nl/fundraisers/ZuiderStad">deze link</a></li>
-<li>2e overtreding: Categorie 8, mogelijkheid tot een unban na het overmaken van een bedrag van €15 naar het KWF, via <a href="https://acties.kwf.nl/fundraisers/ZuiderStad">deze link</a></li>
-<li>3e overtreding: Categorie 8, mogelijkheid tot een unban na het overmaken van een bedrag van €25 naar het KWF, via <a href="https://acties.kwf.nl/fundraisers/ZuiderStad">deze link</a></li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 26 - Scammen
-Wanneer een speler moedwillig iemand oplicht, door bijvoorbeeld af te spreken een auto te kopen en na de sleuteloverdracht niet te betalen. Het scammen van mensen die bezig zijn met criminele zaken is toegestaan wanneer de roleplay-regels dit toelaten.
+## Artikel 22 - Stemherkenning
+Stemherkenning is toegestaan tenzij de persoon een voicechanger gebruikt of je duidelijk merkt dat de persoon een andere stem gebruikt. He is dus niet toegestaan om iemand aan zijn/haar stem te herkennen wanneer hij/zij een andere stem gebruikt of een voicechanger gebruikt.
 <li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 6</li>
-<li>3e overtreding: Categorie 8</li>
+<li>2e overtreding: Categorie 1</li>
+<li>3e overtreding: Categorie 4</li>
+<li>4e overtreding: Categorie 7</li>
+<li>5e overtreding: Categorie 8</li>
 
-## Artikel 27a - Overheidsspullen afpakken
-Het is niet toegestaan om items die bij een overheidsbaan horen afpakken/rippen
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 3</li>
-<li>3e overtreding: Categorie 6</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 27b - Rippen + doodmaken
-Wanneer je iemand ript en de speler meewerkt mag je deze speler niet vermoorden. De reden "anders herkent de speler mij" is geen goede reden, dan moet je zorgen dat je een vermomming, masker en stemvervormer gebruikt wanneer je iemand gaat rippen.
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 3</li>
-<li>3e overtreding: Categorie 6</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 27c - Campen
-Het actief campen van drugs- en criminelelocaties met de intentie andere personen te rippen is verboden.
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 3</li>
-<li>3e overtreding: Categorie 6</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 27d - Ontvoeren zonder wapen
-Het is niet toegestaan om iemand te ontvoeren of een overval te plegen zonder dat je een wapen hebt. Een overval starten met een wapen dat geen echt wapen is (zoals een brandblusser) is niet toegestaan.
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 3</li>
-<li>3e overtreding: Categorie 6</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 28 - Lekke band
-Wanneer een of meerdere banden lek zijn, is het niet toegestaan om harder te rijden dan 80 km/u. Wanneer je op de velg rijdt is het niet toegestaan harder te rijden dan 40km/u. Op een motor is het verboden om op de velg te rijden.
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 3</li>
-<li>3e overtreding: Categorie 6</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 29 - Fouilleren
-Het is verboden andere spelers te fouilleren zonder dat je toestemming hebt. Alleen Politie/KMAR mag fouilleren wanneer een persoon geen toestemming geeft en dit onderdeel is van de RP (bijvoorbeeld bij een aanhouding van een gevaarlijke verdachte). Anderen mogen niet fouilleren zonder toestemming. Ook niet wanneer ze een wapen hebben en de andere persoon niet meewerkt, in dat geval dienen ze een report aan te maken voor FailRP. Daarnaast is het <b>niet</b> toegestaan om iemand die is overleden te fouilleren (behalve door Politie en KMAR).
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 4</li>
-<li>3e overtreding: Categorie 6</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 30 - Corruptie
-Wanneer een overheidsmedewerker corrupt is, bijvoorbeeld iemand binnen de politie die de onderwereld aan informatie helpt.
-<li>1e overtreding: Boete van 500K + melding naar leiding, die bepaald of je ontslagen wordt</li>
-<li>2e overtreding: Boete van 1 miljoen + ontslag</li>
-<li>3e overtreding: Boete van 2,5 miljoen + ontslag + permanente overheidsjob blacklist</li>
-
-## Artikel 31 - F6 abuse
-Een speler met een F6 menu mag dit menu enkel gebruiken wanneer dit binnen de RP past. Dit geldt zowel voor criminelen als overheidsdiensten.
-<li>1e overtreding: Categorie 1</li>
-<li>2e overtreding: Categorie 3</li>
-<li>3e overtreding: Categorie 6</li>
-<li>4e overtreding: Categorie 8</li>
-
-## Artikel 32 - Taal
+## Artikel 23 - Taal
 In ZuiderStad geldt dat iedereen de Nederlandse taal dient te beheersen. Het is toegestaan om ingame Engels te spreken, maar je dient de Nederlandse taal wel te beheersen. Andere talen zijn niet toegestaan.
 <li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 3</li>
 <li>3e overtreding: Categorie 6</li>
 <li>4e overtreding: Categorie 8</li>
 
-## Artikel 33 - Staff lastigvallen
+## Artikel 24 - Scammen
+Wanneer een speler moedwillig iemand oplicht, door bijvoorbeeld af te spreken een auto te kopen en na de sleuteloverdracht niet te betalen. Het scammen van mensen die bezig zijn met criminele zaken is toegestaan wanneer de roleplay-regels dit toelaten.
+<li>1e overtreding: Categorie 1</li>
+<li>2e overtreding: Categorie 6</li>
+<li>3e overtreding: Categorie 8</li>
+
+## Artikel 25 - Criminele activiteiten
+Hieronder vallen onder andere volgende zaken:
+1. Het ontvoeren van iemand die indienst is met een overheidsbaan wanneer dit niet is toegestaan volgens de <a href="https://regels.zuiderstad.nl/roleplay/">Roleplay Regels</a>.
+2. Het afpakken van items die gerelateerd zijn aan een overheidsbaan.
+3. Het vermoorden van een speler die je ript maar die wel meewerkt. De reden "anders herkent de speler mij" is geen goede reden, dan moet je zorgen dat je een vermomming, masker en stemvervormer gebruikt wanneer je iemand gaat rippen.
+4. Het actief campen van drugs- en criminelelocaties met de intentie andere personen te rippen.
+<li>1e overtreding: Categorie 1</li>
+<li>2e overtreding: Categorie 3</li>
+<li>3e overtreding: Categorie 7</li>
+<li>4e overtreding: Categorie 8</li>
+
+## Artikel 26 - Overheid
+Hieronder vallen onder andere volgende zaken:
+1. Het stelen van overheidsvoertuigen zonder geldige reden. Onder overheidsvoertuigen vallen voertuigen van Politie, KMAR, Handhaving, ANWB, Ambulance en officiële Taxi's.
+2. Het moedwillig uitlokken, achtervolgen of anderzijds vervelen van ambtenaren met de intentie de ambtenaar te irriteren zonder dat er enige vorm van RP achter zit.
+3. Het moedwillig hinderen van ambtenaren bij het uitvoeren van hun werkzaamheden zonder enige vorm van RP.
+<li>1e overtreding: Categorie 1</li>
+<li>2e overtreding: Categorie 3</li>
+<li>3e overtreding: Categorie 6</li>
+<li>4e overtreding: Categorie 8</li>
+
+## Artikel 27 - PIT-limiet
+PIT staat voor Pursuit Immobilization Technique en is een techniek waarbij je met de voorkant van je eigen auto een auto tot stilstand probeert te brenger door aan het uiterste punt van de achterzijde van de auto die je achtervolgt te duwen. Een PIT-manouvre is toegestaan bij snelheden tot 100 kilometer per uur. Enkel voor bepaalde overheidsinstanties geldt een uitzondering: 120 km/u voor de verkeerspolitie & unmarked, 150 km/u voor DSI. Bij deze regel handteren we een maximale overschrijdingsmarge van 10% van de toegestane maximum pitsnelheid.
+<li>1e overtreding: Categorie 1</li>
+<li>2e overtreding: Categorie 2</li>
+<li>3e overtreding: Categorie 4</li>
+<li>4e overtreding: Categorie 8</li>
+
+## Artikel 28 - Fouilleren
+Het is verboden andere spelers te fouilleren zonder dat je dit mededeelt. Alleen Politie/KMAR mag fouilleren wanneer een persoon geen toestemming geeft en dit onderdeel is van de RP (bijvoorbeeld bij een aanhouding van een gevaarlijke verdachte). Anderen mogen niet fouilleren wanneer iemand duidelijk aangeeft niet mee te werken met het fouilleren. Ook niet wanneer ze een wapen hebben en de andere persoon niet meewerkt, in dat geval dienen ze een report aan te maken voor FailRP. Daarnaast is het <b>niet</b> toegestaan om iemand die is overleden te fouilleren (behalve door Politie en KMAR).
+<li>1e overtreding: Categorie 1</li>
+<li>2e overtreding: Categorie 4</li>
+<li>3e overtreding: Categorie 6</li>
+<li>4e overtreding: Categorie 8</li>
+
+## Artikel 29 - Bounty
+Het is niet toegestaan om andere mensen geld te bieden om iemand om het leven te brengen (je mag wel mensen uit je eigen gang deze opdracht geven mits het binnen het RP scenario past). Wel is het toegestaan om andere mensen geld te bieden om iemand te ontvoeren en levend naar jou toe te brengen zodat jij diegene kan spreken. Ook is het toegestaan om anderen te betalen om de locatie van iemand anders bekend te maken.
+<li>1e overtreding: Categorie 1</li>
+<li>2e overtreding: Categorie 3</li>
+<li>3e overtreding: Categorie 6</li>
+<li>4e overtreding: Categorie 8</li>
+
+## Artikel 30 - Staff lastigvallen
 Reports spammen, het versturen van DM's, het taggen van staff en staff op andere manieren lastigvallen is niet toegestaan.
 <li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 3</li>
 <li>3e overtreding: Categorie 6</li>
 <li>4e overtreding: Categorie 8</li>
 
-## Artikel 34 - Promotie
-Elke vorm van promotie (zonder uitdrukkelijke toestemming van Hoge Raad) is niet toegestaan. Denk hierbij aan het sturen van discord server invites, het mondeling promoten van andere steden en alle andere manieren van promotie.
+## Artikel 31 - Schelden met ziektes
+Het schelden met hedendaagse ziektes is verboden op alle kanalen. Dit kan ook nooit onderdeel zijn van je RP karakter. Schelden is verder toegestaan, mits dit binnen de RP past.
+<li>1e overtreding: Categorie 8, mogelijkheid tot een unban na het overmaken van een bedrag van €5 naar het KWF, via <a href="https://acties.kwf.nl/fundraisers/ZuiderStad">deze link</a></li>
+<li>2e overtreding: Categorie 8, mogelijkheid tot een unban na het overmaken van een bedrag van €15 naar het KWF, via <a href="https://acties.kwf.nl/fundraisers/ZuiderStad">deze link</a></li>
+<li>3e overtreding: Categorie 8, mogelijkheid tot een unban na het overmaken van een bedrag van €25 naar het KWF, via <a href="https://acties.kwf.nl/fundraisers/ZuiderStad">deze link</a></li>
+<li>4e overtreding: Categorie 8</li>
+
+## Artikel 32 - Racisme/Seksisme/Bedreigen
+Een speler die racistisch of seksistisch handelt of racistische/seksistische opmerkingen maakt of een speler die een andere speler of Staff buiten de RP om bedreigt.
 <li>1e overtreding: Categorie 8</li>
+
+## Artikel 33 - Reallife trading
+Het verhandelen van ingame items of accounts voor geld of andere (digitale) goederen is niet toegestaan.
+<li>1e overtreding: Categorie 8</li>
+
+## Artikel 34 - Toxic gedrag
+Het is niet toegestaan om toxic gedrag te vertonen. Wanneer staff vind dat je hierin te ver gaat dan zal je hiervoor worden gestraft. Het stafflid bepaald op basis van wat jij hebt gezegd en gedaan wat de straf zal zijn.

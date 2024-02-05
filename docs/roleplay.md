@@ -45,6 +45,7 @@
  <tr><td>1.39</td><td>Het vertonen van toxic gedrag in dusdanige mate waarin je de roleplay van anderen consequent verstoord is niet toegestaan</td><td>Artikel 34</td></tr>
  <tr><td>1.40</td><td>Het is verboden om een bounty te zetten op iemand met de intentie om die persoon om te laten leggen. Het is wel toegestaan om een beloning uit te reiken om iemand naar jou toe te laten brengen (door middel van ontvoering) of om iemand zijn/haar locatie aan jou bekend te maken</td><td>Artikel 29</td></tr>
  <tr><td>1.41</td><td>Het is toegestaan om iemand aan zijn/haar stem te herkennen, ook wanneer de persoon een masker draagt. Het is niet toegestaan om iemand aan zijn/haar stem te herkennen wanneer iemand een stemvervormer gebruikt. Ook is het niet toegestaan iemand aan zijn/haar stem te herkennen als hij/zij een andere stem probeert te gebruiken</td><td>Artikel 22</td></tr>
+ <tr><td>1.42</td><td>Wanneer een of meerdere banden lek zijn, is het niet toegestaan om harder te rijden dan 80 km/u. Wanneer je op de velg rijdt is het niet toegestaan harder te rijden dan 40km/u. Op een motor is het verboden om op de velg te rijden.</td><td>Artikel 4</td></tr>
 </tbody></table>
 
 ## 2. Criminele Activiteiten

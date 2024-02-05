@@ -7,7 +7,7 @@ hide:
 In ZuiderStad hebben we een volwassen en competent staffteam. Het staffteam zet zich dagelijks in om jullie de beste roleplay-ervaring te bieden. Uiteraard kunnen er soms fouten voorkomen; een vergissing moet kunnen. Echter, het is belangrijk dat het staffteam zich ook aan de regels houdt. Naast de gebruikelijke regels zijn er enkele specifieke regels die van toepassing zijn op het staffteam. Deze regels worden hieronder vermeld.
 <table>
 <thead><th>#</th><th>Regel</th></tr></thead><tbody>
- <tr><td>6.1</td><td>Het is voor staff niet toegestaan om deel te nemen aan RP met ingespawnde wapens.</td></tr>
+ <tr><td>6.1</td><td>Het is voor staff niet toegestaan om deel te nemen aan RP met ingespawnde wapens tenzij er uitdrukkelijke toestemming is van Hoge Raad.</td></tr>
  <tr><td>6.2</td><td>Staffleden mogen geen deel uitmaken van RP met gebooste auto's (via TX of commando's).</td></tr>
  <tr><td>6.3</td><td>Het is voor staff niet toegestaan om tijdens RP items zoals voedsel, telefoons, prototypes of andere items in te spawnen.</td></tr>
  <tr><td>6.4</td><td>Staffleden mogen geen voertuigen tijdens RP repareren via commando's of TX.</td></tr>

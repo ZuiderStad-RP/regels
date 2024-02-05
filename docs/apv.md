@@ -239,4 +239,4 @@ Het verhandelen van ingame items of accounts voor geld of andere (digitale) goed
 <li>1e overtreding: Categorie 8</li>
 
 ## Artikel 34 - Toxic gedrag
-Het is niet toegestaan om toxic gedrag te vertonen. Wanneer staff vind dat je hierin te ver gaat dan zal je hiervoor worden gestraft. Het stafflid bepaald op basis van wat jij hebt gezegd en gedaan wat de straf zal zijn.
+Het is niet toegestaan om toxic gedrag te vertonen. Wanneer staff vind dat je hierin te ver gaat dan zal je hiervoor worden gestraft. Het stafflid bepaalt op basis van wat jij hebt gezegd en gedaan wat de straf zal zijn.

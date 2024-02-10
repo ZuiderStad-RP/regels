@@ -46,6 +46,7 @@
  <tr><td>1.40</td><td>Het is verboden om een bounty te zetten op iemand met de intentie om die persoon om te laten leggen. Het is wel toegestaan om een beloning uit te reiken om iemand naar jou toe te laten brengen (door middel van ontvoering) of om iemand zijn/haar locatie aan jou bekend te maken</td><td>Artikel 29</td></tr>
  <tr><td>1.41</td><td>Het is toegestaan om iemand aan zijn/haar stem te herkennen, ook wanneer de persoon een masker draagt. Het is niet toegestaan om iemand aan zijn/haar stem te herkennen wanneer iemand een stemvervormer gebruikt. Ook is het niet toegestaan iemand aan zijn/haar stem te herkennen als hij/zij een andere stem probeert te gebruiken</td><td>Artikel 22</td></tr>
  <tr><td>1.42</td><td>Wanneer een of meerdere banden lek zijn, is het niet toegestaan om harder te rijden dan 80 km/u. Wanneer je op de velg rijdt is het niet toegestaan harder te rijden dan 40km/u. Op een motor is het verboden om op de velg te rijden</td><td>Artikel 4</td></tr>
+ <tr><td>1.43</td><td>Het is niet toegestaan om een zogenaamde combat roll (rollen terwijl je aan het richten bent) uit te voeren</td><td>Artikel 4</td></tr>
 </tbody></table>
 
 ## 2. Criminele Activiteiten
@@ -124,8 +125,7 @@ Mensen met een functie als Politie, KMAR, Ambulance, ANWB en Handhaving worden b
  <tr><td>4.12</td><td>Wanneer een inwoner wordt veroordeeld voor 40 maanden of meer celstraf dan gelden de volgende regels: 1. Wanneer er minimaal 6 agenten in de stad zijn, wordt de verdachte altijd getransporteerd naar de gevangenis. Wanneer er minimaal 4 agenten in de stad zijn (maar minder dan 6), dan krijgt de verdachte de keuze om getransporteerd te worden. Bij de aanwezigheid van 3 agenten of minder ligt de keuze bij de politie. KMAR telt mee in deze telling</td><td>Artikel 4</td></tr>
  <tr><td>4.13</td><td>Het is niet toegestaan om informatie die nog relevant is te verwijderen uit MEOS of uit de gemeente app, ook niet wanneer je bedreigd wordt</td><td>Artikel 26</td></tr>
  <tr><td>4.14</td><td>Overheidsdiensten mogen zelf beslissen hoe ze een gebied bij een situatie afzetten, dit dient echter realistisch te blijven. Een voertuig inbouwen met hekken is bijvoorbeeld niet de bedoeling</td><td>Artikel 26</td></tr>
- <tr><td>4.15</td><td>Het is niet toegestaan om op banden van een rijdende motor te schieten</td><td>Artikel 26</td></tr>
- <tr><td>4.16</td><td>Het is niet toegestaan om populaire overval locaties te campen, ook niet als je weet dat er iemand ontvoerd is. Langsrijden om controles uit te voeren is wel toegestaan</td><td>Artikel 26</td></tr>
+ <tr><td>4.15</td><td>Het is niet toegestaan om populaire overval locaties te campen, ook niet als je weet dat er iemand ontvoerd is. Langsrijden om controles uit te voeren is wel toegestaan</td><td>Artikel 26</td></tr>
 </tbody></table>
 
 ## 5. Overige regels

@@ -42,7 +42,7 @@
  <tr><td>1.36</td><td>Wanneer je tijdens een schietpartij in je benen wordt geraakt en omvalt (of een soort wankelende animatie uitvoert waardoor je even niet kan schieten) mag je niet verder schieten. Wanneer je niet bent omgevallen mag je wel verder schieten. Wel is het toegestaan om <b>zonder te rennen</b> jezelf in veiligheid te brengen. Het is niet toegestaan om direct weer een voertuig te besturen, dit mag pas als het scenario om je heen is afgelopen of 5 minuten nadat je in je benen bent geraakt (dit geldt zowel voor auto's als motoren). Je mag wel als passagier in een voertuig stappen, mits het scenario dit toelaat</td><td>Artikel 4</td></tr>
  <tr><td>1.37</td><td>Wanneer je in ZuiderStad komt spelen dan gaan we er vanuit dat je dit doet met de intentie deel te nemen aan de roleplay ervaring binnen de stad. Het is niet toegestaan om met een andere intentie zoals kloten of verstoren van de roleplay toe te treden in de stad</td><td>Artikel 5</td></tr>
  <tr><td>1.38</td><td>Het is niet toegestaan om je spullen (geld, auto's, items etc.) weg te geven als je gaat stoppen met de stad. Zowel de gever als de ontvanger zullen hiervoor worden bestraft</td><td>Artikel 14</td></tr>
- <tr><td>1.39</td><td>Het vertonen van toxic gedrag in dusdanige mate waarin je de roleplay van anderen consequent verstoord is niet toegestaan</td><td>Artikel 34</td></tr>
+ <tr><td>1.39</td><td>Het vertonen van toxic gedrag in dusdanige mate waarin je de roleplay van anderen consequent verstoord is niet toegestaan. Ook wanneer een persoon is overleden is toxic gedrag niet toegestaan</td><td>Artikel 34</td></tr>
  <tr><td>1.40</td><td>Het is verboden om een bounty te zetten op iemand met de intentie om die persoon om te laten leggen. Het is wel toegestaan om een beloning uit te reiken om iemand naar jou toe te laten brengen (door middel van ontvoering) of om iemand zijn/haar locatie aan jou bekend te maken</td><td>Artikel 29</td></tr>
  <tr><td>1.41</td><td>Het is toegestaan om iemand aan zijn/haar stem te herkennen, ook wanneer de persoon een masker draagt. Het is niet toegestaan om iemand aan zijn/haar stem te herkennen wanneer iemand een stemvervormer gebruikt. Ook is het niet toegestaan iemand aan zijn/haar stem te herkennen als hij/zij een andere stem probeert te gebruiken</td><td>Artikel 22</td></tr>
  <tr><td>1.42</td><td>Wanneer een of meerdere banden lek zijn, is het niet toegestaan om harder te rijden dan 80 km/u. Wanneer je op de velg rijdt is het niet toegestaan harder te rijden dan 40km/u. Op een motor is het verboden om op de velg te rijden</td><td>Artikel 4</td></tr>
@@ -80,6 +80,8 @@ Onder overheidsobjecten vallen voorwerpen zoals: medkits, repair kits, politie/k
  <tr><td>2.25</td><td>Het is niet toegestaan om binnen een straal van 500 meter van een garage Meth te koken</td><td>Artikel 25</td></tr>
  <tr><td>2.26</td><td>Wanneer er door overheidsdiensten groenlicht wordt gegeven (dus op het momnet dat groenlicht 1 gegeven wordt) is het niet meer toegestaan dat derde partijen beginnen met schieten op of richting de betrokkenen bij het scenario</td><td>Artikel 25</td></tr>
  <tr><td>2.27</td><td>Zodra er Politie of KMAR aanwezig is bij een overval of gijzeling scenario is het niet toegstaan om de betrokken criminelen te counteren. Dit mag pas weer wanneer de criminelen gaan vluchten</td><td>Artikel 25</td></tr>
+ <tr><td>2.28</td><td>Een gang die vol zit mag geen loopjongens hebben (onder loopjongens verstaan we mensen die ze helpen, maar geen lid zijn van de gang of gang waarmee ze een samenwerking hebben)</td><td>Artikel 25</td></tr>
+ <tr><td>2.29</td><td>Een gang mag maximaal met één andere gang een samenwerking hebben. Het helpen of geholpen worden door andere gangs anders dan de gang waarmee je een officiële (en goedgekeurde) samenwerking hebt is in geen enkel scenario toegestaan</td><td>Artikel 25</td></tr>
 </tbody></table>
 
 ## 3. Regels voor gijzelen/overval/doden
@@ -105,9 +107,13 @@ Onder overheidsobjecten vallen voorwerpen zoals: medkits, repair kits, politie/k
  <tr><td>3.19</td><td>Het is niet toegestaan iemand tegen zijn/haar wil te fouilleren. Alleen politie en kmar mogen onder dwang fouilleren. Wanneer je een wapen op iemand richt en die persoon wil nog altijd niet gefouilleerd worden dan kun je een report aanmaken voor FailRP</td><td>Artikel 28</td></tr>
  <tr><td>3.20</td><td>Het is niet toegestaan om ambtenaren te dwingen iemand te fouilleren</td><td>Artikel 25</td></tr>
  <tr><td>3.21</td><td>Het is niet toegestaan om iemand te dwingen om informatie te verwijderen uit MEOS of uit de gemeente app</td><td>Artikel 25</td></tr>
+ <tr><td>3.22</td><td>Het is niet toegestaan om te praten in je porto wanneer er een vuurwapen op je gericht staat. Het indrukken van de noodknop mag zolang deze niet (fictief) is afgepakt</td><td>Artikel 4</td></tr>
+ <tr><td>3.23</td><td>Het is niet toegestaan om te rennen wanneer je iemand vast hebt met het commando /th of /takehostage. Ook wanneer je geboeid bent mag je niet rennen</td><td>Artikel 4</td></tr>
+ <tr><td>3.24</td><td>Wanneer je een overval pleegt en er geen politie komt, dan dien je minimaal 5 minuten te wachten voordat je de plaats van de overval mag verlaten</td><td>Artikel 17</td></tr>
+ <tr><td>3.25</td><td>Waardetransport mag niet worden overvallen op de legerbasis</td><td>Artikel 17</td></tr>
 </tbody></table>
 
-## 4. Ambtenaren
+## 4. Regels voor ambtenaren
 Mensen met een functie als Politie, KMAR, Ambulance, ANWB en Handhaving worden beschouwd als ambtenaar. Ook als ze uit dienst zijn! Ze zijn dan alleen niet in functie. Taxi en advocaten vallen niet onder ambtenaren. Onder overheidsobjecten vallen voorwerpen zoals: medkits, repair kits, wapens, enzovoort.
 <table>
 <thead><th>#</th><th>Regel</th><th>Artikel</th></tr></thead><tbody>

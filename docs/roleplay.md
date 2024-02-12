@@ -87,7 +87,7 @@ Onder overheidsobjecten vallen voorwerpen zoals: medkits, repair kits, politie/k
 ## 3. Regels voor gijzelen/overval/doden
 <table>
 <thead><th>#</th><th>Regel</th><th>Artikel</th></tr></thead><tbody>
- <tr><td>3.1</th><th>Je mag alleen iemand doden als dit past binnen de RP, het is nooit toegestaan om iemand zonder reden, of met een zwak argument te doden</td><td>Artikel 4</td></tr>
+ <tr><td>3.1</td><td>Je mag alleen iemand doden als dit past binnen de RP, het is nooit toegestaan om iemand zonder reden, of met een zwak argument te doden</td><td>Artikel 4</td></tr>
  <tr><td>3.2</td><td>Je mag alleen een inwoner gijzelen wanneer en minimaal 2 agenten in de stad zijn. Je mag een maximumaantal van 4 inwoners gijzelen per scenario. Per 2 agenten/kmar in de stad mag er maximaal 1 inwoner gegijzeld worden. Hoeveel inwoners er exact gegijzeld mogen worden vind je in het scorebord</td><td>Artikel 17</td></tr>
  <tr><td>3.3</td><td>Je mag alleen een agent gijzelen als er minimaal 5 agenten in de stad zijn. Voor het ontvoeren van 2 agenten dienen er minimaal 9 agenten in de stad te zijn. Het is nooit toegestaan om voor 1 scenario meer dan 2 agenten te gijzelen. Hoeveel agenten er exact gegijzeld mogen worden vind je in het scorebord</td><td>Artikel 17</td></tr>
  <tr><td>3.4</td><td>Je mag alleen iemand rippen wanneer dit volgens het scorebord is toegestaan</td><td>Artikel 17</td></tr>

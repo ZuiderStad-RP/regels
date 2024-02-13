@@ -27,6 +27,7 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden:
  <tr><td>Can-Am Offroad</td></tr>
  <tr><td>Chevrolet C10</td></tr>
  <tr><td>Cupra Formentor</td></tr>
+ <tr><td>Fendt 724</td></tr>
  <tr><td>Fiets - BMX</td></tr>
  <tr><td>Fiets - Mountainbike</td></tr>
  <tr><td>Ford Bronco</td></tr>
@@ -36,6 +37,7 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden:
  <tr><td>Ford Velociraptor 6X6</td></tr>
  <tr><td>Honda Africat</td></tr>
  <tr><td>Hummer Alpha H1 (Open)</td></tr>
+ <tr><td>Hummer GMC EV</td></tr>
  <tr><td>Humvee Unarmed</td></tr>
  <tr><td>Jeep Gladiator</td></tr>
  <tr><td>Jeep Grand Cherokee Trackhawk</td></tr>
@@ -54,7 +56,10 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden:
  <tr><td>Mercedes Brabus D35</td></tr>
  <tr><td>Mercedes Brabus G800</td></tr>
  <tr><td>Mercedes Brabus GLS 800</td></tr>
+ <tr><td>Mercedes Brabus XLP</td></tr>
+ <tr><td>Mercedes G63</td></tr>
  <tr><td>Mercedes G63 Mansory</td></tr>
+ <tr><td>Mercedes G63 Philipp Plein</td></tr>
  <tr><td>Mercedes G65 AMG</td></tr>
  <tr><td>Mercedes G65 AMG 6x6</td></tr>
  <tr><td>Mercedes G65 AMG-R</td></tr>
@@ -171,9 +176,9 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden:
 
 ## Hypercars
 Bij overvallen is het niet toegestaan om gebruik te maken van Hypercars. Hypercars geven een onrealistisch voordeel bij het plegen van een overval. Het gebruiken van een Hypercar bij een overval valt onder Artikel 13 - FailRP. Hieronder vind je een overzicht van alle Hypercars in ZuiderStad.
-
 <table>
 <thead><th>Hypercars</th></tr></thead><tbody>
+ <tr><td>Aston Martin One 77</td></tr>
  <tr><td>Aston Martin Valkyrie TrackPack</td></tr>
  <tr><td>Aston Martin Vulcan</td></tr>
  <tr><td>Bugatti Atlantic</td></tr>
@@ -194,7 +199,7 @@ Bij overvallen is het niet toegestaan om gebruik te maken van Hypercars. Hyperca
  <tr><td>Ferrari LaFerrari</td></tr>
  <tr><td>Ferrari P80</td></tr>
  <tr><td>Koenigsegg Agera</td></tr>
- <tr><td>Koenigsegg Agera</td></tr>
+ <tr><td>Koenigsegg Agera 2011</td></tr>
  <tr><td>Koenigsegg Agera RS Draken 2018</td></tr>
  <tr><td>Koenigsegg CCX</td></tr>
  <tr><td>Koenigsegg Gemera</td></tr>

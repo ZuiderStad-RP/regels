@@ -22,6 +22,7 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden:
  <tr><td>BMW X6M</td></tr>
  <tr><td>BMW X6M Wide body</td></tr>
  <tr><td>BMW X7</td></tr>
+ <tr><td>BMW X7 Lumma</td></tr>
  <tr><td>BMW X7 Mansory</td></tr>
  <tr><td>Cadillac Escalade</td></tr>
  <tr><td>Can-Am Offroad</td></tr>
@@ -248,7 +249,10 @@ Bij overvallen is het niet toegestaan om gebruik te maken van Superbikes. Superb
 <thead><th>Superbikes</th></tr></thead><tbody>
  <tr><td>BMW M1000RR</td></tr>
  <tr><td>BMW S1000 Drag</td></tr>
+ <tr><td>Ducati 199 Panigale</td></tr>
+ <tr><td>Ducati Panigale V4R</td></tr>
  <tr><td>Kawasaki Ninja H2R</td></tr>
  <tr><td>Kawasaki Ninja Zx10</td></tr>
  <tr><td>Suzuki Hayabusa</td></tr>
+ <tr><td>Yamaha R1 2020</td></tr>
 </tbody></table>

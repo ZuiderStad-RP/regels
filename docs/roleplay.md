@@ -6,7 +6,7 @@
  <tr><td>1.1</td><td>Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)</td><td>Artikel 4</td></tr>
  <tr><td>1.2</td><td>Geen VDM (Vehicle Death Match, je voertuig als wapen inzetten)</td><td>Artikel 6</td></tr>
  <tr><td>1.3</td><td>Geen RDM (Random Death Match, zonder goede reden mensen doodmaken of een poging daartoe)</td><td>Artikel 7</td></tr>
- <tr><td>1.4</td><td>Geen Cheats, hieronder vallen ook zaken zoals aimbots, crossairs, etc.</td><td>Artikel 1</td></tr>
+ <tr><td>1.4</td><td>Geen Cheats, hieronder vallen ook zaken zoals aimbots, crosshairs, etc.</td><td>Artikel 1</td></tr>
  <tr><td>1.5a</td><td>Geen Exploits misbruiken. Vind je een bug/exploit waarmee je jezelf kan verrijken? Maak dan een ticket aan. Als je dit eerlijk meldt zul je worden beloond</td><td>Artikel 3</td></tr>
  <tr><td>1.5b</td><td>Geen Glitches misbruiken. Vind je een glitch waardoor je dingen kunt doen die eigenlijk niet de bedoeling zijn? Maak dan een ticket aan. Als je dit eerlijk meldt zul je worden beloond</td><td>Artikel 2</td></tr>
  <tr><td>1.6</td><td>Geen server/roleplay verstorend gedrag (Mic spammen, trollen etc)</td><td>Artikel 4</td></tr>

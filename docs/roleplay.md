@@ -133,6 +133,10 @@ Mensen met een functie als Politie, KMAR, Ambulance, ANWB en Handhaving worden b
  <tr><td>4.13</td><td>Het is niet toegestaan om informatie die nog relevant is te verwijderen uit MEOS of uit de gemeente app, ook niet wanneer je bedreigd wordt</td><td>Artikel 26</td></tr>
  <tr><td>4.14</td><td>Overheidsdiensten mogen zelf beslissen hoe ze een gebied bij een situatie afzetten, dit dient echter realistisch te blijven. Een voertuig inbouwen met hekken is bijvoorbeeld niet de bedoeling</td><td>Artikel 26</td></tr>
  <tr><td>4.15</td><td>Het is niet toegestaan om populaire overval locaties te campen, ook niet als je weet dat er iemand ontvoerd is. Langsrijden om controles uit te voeren is wel toegestaan</td><td>Artikel 26</td></tr>
+ <tr><td>4.16</td><td>Het is niet toegestaan om lightbars te installeren op hypercars of superbikes</td><td>Artikel 17</td></tr>
+ <tr><td>4.17</td><td>Voor ontslag dienen alle lightbars van voertuigen verwijderd te worden</td><td>Artikel 26</td></tr>
+ <tr><td>4.18</td><td>Het is niet toegestaan om uitdienst in voertuigen met lightbars rond te rijden, deze dien je er voordat je er privé in gaat rijden af te halen</td><td>Artikel 26</td></tr>
+ <tr><td>4.19</td><td>Ieder voertuig dat voorzien wordt van lightbars dien je te registreren in de overheidsdiscord. Het is niet toegestaan om rond te rijden in een voertuig met lightbars dat niet is aangemeld</td><td>Artikel 26</td></tr>
 </tbody></table>
 
 ## 5. Overige regels

@@ -24,4 +24,5 @@ In ZuiderStad hebben we een volwassen en competent staffteam. Het staffteam zet 
  <tr><td>6.15</td><td>Staffleden mogen hun permissies niet misbruiken om anderen te hinderen, te trollen of op een andere manier negatief te beïnvloeden.</td></tr>
  <tr><td>6.16</td><td>Staffleden moeten effectief samenwerken met andere leden van het staffteam en gedeelde beslissingen respecteren.</td></tr>
  <tr><td>6.17</td><td>Staffleden mogen geen staffzaken die betrekking hebben op hun eigen gang behandelen.</td></tr>
+ <tr><td>6.18</td><td>Staffleden mogen alleen lagere rangen spectaten. Ze mogen niet iemand met dezelfde of een hogere rang spectaten tenzij de persoon zelf of een staff coördinator hier expliciet toestemming voor heeft gegeven. Staff coördinatoren en Hoge Raad mogen iedereen spectaten.</td></tr>
 </tbody></table>

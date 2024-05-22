@@ -168,6 +168,7 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden:
 ### ANWB offroad voertuigen
 <table>
 <thead><th>ANWB offroad voertuigen</th></tr></thead><tbody>
+ <tr><td>Toyota Hillux Rijkswaterstaat</td></tr>
  <tr><td>Toyota TRD Pro</td></tr>
  <tr><td>Toyota TRD Pro (geavanceerd)</td></tr>
  <tr><td>Volkswagen Amarok</td></tr>

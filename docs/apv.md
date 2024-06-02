@@ -242,3 +242,8 @@ Het verhandelen van ingame items of accounts voor geld of andere (digitale) goed
 
 ## Artikel 34 - Toxic gedrag
 Het is niet toegestaan om toxic gedrag te vertonen. Wanneer staff vind dat je hierin te ver gaat dan zal je hiervoor worden gestraft. Het stafflid bepaalt op basis van wat jij hebt gezegd en gedaan wat de straf zal zijn.
+
+## Artikel 35 - Erotische roleplay
+Het is niet toegestaan om erotische roleplay aan te gaan. De enige uitzondering is het uitvoeren van bepaalde dansjes in stripclubs, hier is dit in bepaalde mate toegestaan.
+<li>1e overtreding: Categorie 6</li>
+<li>2e overtreding: Categorie 8</li>

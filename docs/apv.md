@@ -227,9 +227,9 @@ Reports spammen, het versturen van DM's, het taggen van staff en staff op andere
 
 ## Artikel 31 - Schelden met ziektes
 Het schelden met hedendaagse ziektes is verboden op alle kanalen. Dit kan ook nooit onderdeel zijn van je RP karakter. Schelden is verder toegestaan, mits dit binnen de RP past.
-<li>1e overtreding: Categorie 8, mogelijkheid tot een unban na het overmaken van een bedrag van €5 naar het KWF, via <a href="https://acties.kwf.nl/fundraisers/ZuiderStad">deze link</a></li>
-<li>2e overtreding: Categorie 8, mogelijkheid tot een unban na het overmaken van een bedrag van €15 naar het KWF, via <a href="https://acties.kwf.nl/fundraisers/ZuiderStad">deze link</a></li>
-<li>3e overtreding: Categorie 8, mogelijkheid tot een unban na het overmaken van een bedrag van €25 naar het KWF, via <a href="https://acties.kwf.nl/fundraisers/ZuiderStad">deze link</a></li>
+<li>1e overtreding: Categorie 8, staff kan beslissen de mogelijkheid te bieden tot een unban na het overmaken van een bedrag van €5 naar het KWF, via <a href="https://acties.kwf.nl/fundraisers/ZuiderStad">deze link</a></li>
+<li>2e overtreding: Categorie 8, staff kan beslissen de mogelijkheid te bieden tot een unban na het overmaken van een bedrag van €15 naar het KWF, via <a href="https://acties.kwf.nl/fundraisers/ZuiderStad">deze link</a></li>
+<li>3e overtreding: Categorie 8, staff kan beslissen de mogelijkheid te bieden tot een unban na het overmaken van een bedrag van €25 naar het KWF, via <a href="https://acties.kwf.nl/fundraisers/ZuiderStad">deze link</a></li>
 <li>4e overtreding: Categorie 8</li>
 
 ## Artikel 32 - Racisme/Seksisme/Bedreigen

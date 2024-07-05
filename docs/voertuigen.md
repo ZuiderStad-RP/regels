@@ -2,7 +2,7 @@
 Op deze pagina vind je meer informatie omtrent voertuig regels. Je ziet hier bijvoorbeeld welke voertuigen offroad mogen en welke voertuigen vallen onder hypercars en superbikes (het type dat niet gebruikt mag worden bij overvallen).
 
 ## Offroad
-In ZuiderStad is het enkel voor offroad voertuigen toegestaan om offroad te rijden. Met normale voertuigen is het niet toegestaan om offroad te rijden. Het overtreden van deze regel valt onder Artikel 14 – Offroad. Onder offroad verstaan we een ondergrond die bestaat uit zand, gras, kiezels of modder waar geen weg of pad zichtbaar is.<br>Het monteren van offroad banden zorgt er <strong>niet</strong> voor dat je met het voertuig offroad mag rijden!
+In ZuiderStad is het enkel voor offroad voertuigen toegestaan om offroad te rijden. Met normale voertuigen is het niet toegestaan om offroad te rijden. Het overtreden van deze regel valt onder Artikel 11 – Offroad. Onder offroad verstaan we een ondergrond die bestaat uit zand, gras, kiezels of modder waar geen weg of pad zichtbaar is.<br>Het monteren van offroad banden zorgt er <strong>niet</strong> voor dat je met het voertuig offroad mag rijden!
 
 ## Onverharde wegen
 Alle voertuigen binnen ZuiderStad mogen op onverharde wegen rijden. Onder onverharde wegen verstaan we wegen die niet geasfalteerd zijn, maar wel duidelijk een weg of pad vormen en op de kaart ook als weg worden aangeduid.
@@ -114,6 +114,7 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden:
 <table>
 <thead><th>Politie offroad voertuigen</th></tr></thead><tbody>
  <tr><td>Bearcat</td></tr>
+ <tr><td>BMW X1</td></tr>
  <tr><td>Ford F150 sleepwagen</td></tr>
  <tr><td>Ford Raptor</td></tr>
  <tr><td>Lichte motor BMW F 650 GS</td></tr>

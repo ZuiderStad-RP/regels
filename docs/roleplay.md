@@ -167,4 +167,11 @@ Mensen met een functie als Politie, KMAR, Ambulance, ANWB en Handhaving worden b
  <tr><td>5.14</td><td>Het is niet toegestaan om een bepaald kledingstuk te claimen kledingstuk die hoort bij jouw gang/familie. Wel is het toegestaan om een samenstelling van een volledige outfit te claimen als outfit die hoort bij jouw gang/familie en anderen er op aan te spreken als ze dezelfde outfit dragen</td><td>Artikel 4</td></tr>
  <tr><td>5.15</td><td>Het is niet toegestaan om over bepaalde objecten heen te rijden met een voertuig wanneer je weet dat een motor van Politie/KMAR je niet kan volgen, een voorbeeld zijn enkele betonblokken die als afscheiding dienen bij een snelweg</td><td>Artikel 4</td></tr>
  <tr><td>5.16</td><td>De namen in de porto lijst (call signs) valt onder OOC informatie en mag ingame niet gebruikt worden</td><td>Artikel 4</td></tr>
+ <tr><td>5.17</td><td>Het is niet toegestaan om personen die in AFK modus staan te gijzelen</td><td>Artikel 17</td></tr>
+ <tr><td>5.18</td><td>Het is niet toegestaan om in AFK modus te gaan terwijl je illegale spullen of wapens op zak hebt</td><td>Artikel 4</td></tr>
+ <tr><td>5.19</td><td>Het is niet toegestaan om in AFK modus te gaan terwijl je een masker of holster draagt, doe je dit wel dan mag je terwijl je AFK staat gefouilleerd worden</td><td>Artikel 4</td></tr>
+ <tr><td>5.20</td><td>Het is niet toegestaan om in AFK modus te gaan tijdens of binnen 10 minuten na deelnemen aan een (crimineel) RP scenario</td><td>Artikel 15</td></tr>
+ <tr><td>5.21</td><td>Het is niet toegestaan om personen uit AFK modus te halen door ze te dragen (carryen) of op een andere manier te duwen</td><td>Artikel 4</td></tr>
+ <tr><td>5.22</td><td>Het is niet toegestaan omandere personen in een AFK zone te zetten, dit mag op geen enkele manier. Iemand dient zelf naar een AFK zone te gaan</td><td>Artikel 17</td></tr>
+ <tr><td>5.23</td><td>Het is niet toegestaan om personen in AFK modus opzettelijk te mishandelen, aan te rijden of op een andere manier ervoor te zorgen dat een persoon damage krijgt of komt te overlijden</td><td>Artikel 4</td></tr>
 </tbody></table>

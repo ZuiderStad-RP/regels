@@ -172,6 +172,6 @@ Mensen met een functie als Politie, KMAR, Ambulance, ANWB en Handhaving worden b
  <tr><td>5.19</td><td>Het is niet toegestaan om in AFK modus te gaan terwijl je een masker of holster draagt, doe je dit wel dan mag je terwijl je AFK staat gefouilleerd worden</td><td>Artikel 4</td></tr>
  <tr><td>5.20</td><td>Het is niet toegestaan om in AFK modus te gaan tijdens of binnen 10 minuten na deelnemen aan een (crimineel) RP scenario</td><td>Artikel 15</td></tr>
  <tr><td>5.21</td><td>Het is niet toegestaan om personen uit AFK modus te halen door ze te dragen (carryen) of op een andere manier te duwen</td><td>Artikel 4</td></tr>
- <tr><td>5.22</td><td>Het is niet toegestaan omandere personen in een AFK zone te zetten, dit mag op geen enkele manier. Iemand dient zelf naar een AFK zone te gaan</td><td>Artikel 17</td></tr>
+ <tr><td>5.22</td><td>Het is niet toegestaan om andere personen in een AFK zone te zetten, dit mag op geen enkele manier. Iemand dient zelf naar een AFK zone te gaan</td><td>Artikel 17</td></tr>
  <tr><td>5.23</td><td>Het is niet toegestaan om personen in AFK modus opzettelijk te mishandelen, aan te rijden of op een andere manier ervoor te zorgen dat een persoon damage krijgt of komt te overlijden</td><td>Artikel 4</td></tr>
 </tbody></table>

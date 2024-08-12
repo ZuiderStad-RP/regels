@@ -29,7 +29,7 @@ Schelden met hedendaagse ziektes en het opzettelijk kwetsen van andere mensen is
 <li>Straf: permanente ban</li>
 
 ## Staff spammen
-Het vragen naar het behandelen van tickets en het taggen van Staff is niet toegestaan, tenzij met uitdrukkelijke toestemming.
+Het vragen naar het behandelen van tickets en het onnodig of herhaaldelijk taggen van Staff is niet toegestaan, tenzij met uitdrukkelijke toestemming.
 <li>Straf: timeout van 12 uur</li>
 
 ## Metagamen

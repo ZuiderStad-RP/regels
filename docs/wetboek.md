@@ -87,18 +87,18 @@ Hieronder zie je per categorie de borgsom die je kunt betalen om vrij te komen.
  <tr><td>[CAT3] Medeplichtig aan ongewapende overval</td><td>25 taakstraffen of 17 maanden celstraf</td></tr>
  <tr><td>[CAT3] Medeplichtig aan poging tot gewapende overval</td><td>25 taakstraffen of 17 maanden celstraf</td></tr>
  <tr><td>[CAT3] Poging tot ongewapende overval</td><td>25 taakstraffen of 17 maanden celstraf</td></tr>
- <tr><td>[CAT3] Vluchten van de politie</td><td>20 maanden celstraf</td></tr>
+ <tr><td>[CAT3] Vluchten van de politie (herhaaldelijk negeren stopteken)</td><td>20 maanden celstraf</td></tr>
  <tr><td>[CAT4] Bezit zwartgeld</td><td>5 maanden celstraf per €10.000</td></tr>
  <tr><td>[CAT4] Zichtbaar tonen van vuurwapen</td><td>20 maanden celstraf</td></tr>
  <tr><td>[CAT4] Mishandeling burger </td><td>20 maanden celstraf</td></tr>
  <tr><td>[CAT4] Medeplichtig aan gewapende overval</td><td>20 maanden celstraf</td></tr>
- <tr><td>[CAT4] Gijzeling burger</td><td>20 maanden celstraf</td></tr>
+ <tr><td>[CAT4] Gijzeling/ontvoering burger</td><td>20 maanden celstraf</td></tr>
  <tr><td>[CAT4] Ongewapende overval</td><td>20 maanden celstraf</td></tr>
  <tr><td>[CAT4] Poging tot gewapende overval</td><td>20 maanden celstraf</td></tr>
  <tr><td>[CAT4] Mishandeling ambtenaar in functie </td><td>25 maanden celstraf</td></tr>
  <tr><td>[CAT4] Inbraak gevangenis</td><td>30 maanden celstraf</td></tr>
  <tr><td>[CAT4] Poging doodslag burger</td><td>30 maanden celstraf</td></tr>
- <tr><td>[CAT4] Gijzeling ambtenaar in functie</td><td>30 maanden celstraf</td></tr>
+ <tr><td>[CAT4] Gijzeling/ontvoering ambtenaar in functie</td><td>30 maanden celstraf</td></tr>
  <tr><td>[CAT4] Gewapende overval</td><td>30 maanden celstraf</td></tr>
  <tr><td>[CAT4] Poging doodslag ambtenaar in functie</td><td>35 maanden celstraf</td></tr>
  <tr><td>[CAT5] Medeplichtig onsuccesvolle gevangenisuitbraak</td><td>40 maanden celstraf</td></tr>

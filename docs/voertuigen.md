@@ -53,6 +53,7 @@ Hieronder vind je een overzicht van alle voertuigen die offroad mogen rijden:
  <tr><td>Lamborghini Sterrato 2020</td></tr>
  <tr><td>Land Rover Defender</td></tr>
  <tr><td>Land Rover Defender 90</td></tr>
+ <tr><td>Land Rover Defender Urban</td></tr>
  <tr><td>Lincoln Navigator</td></tr>
  <tr><td>Mercedes Brabus D35</td></tr>
  <tr><td>Mercedes Brabus G800</td></tr>

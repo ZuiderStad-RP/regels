@@ -8,6 +8,7 @@
 <li>Voor vrijwel elk artikel zijn voorbeelden te vinden in <a href="https://regels.zuiderstad.nl/roleplay/">Roleplay Regels</a></li>
 <li>Staff kan als aanvullende straf beslissen om een accountwipe uit te voeren indien hier aanleiding voor is</li>
 <li>Het aanzetten van anderen tot het overtreden van de APV regels zal worden bestraft met dezelfde straf die hoort bij het geldende artikel</li>
+<li>Bij een refund ticket dient <b>altijd</b> een clip aanwezig te zijn! Hierbij dient ook audio opgenomen te zijn. Zonder clip, of met een clip zonder audio wordt je refund afgekeurd. Wanneer in een refund ticket te horen is dat je in een Discord call zit (ook al is dit een Discord call die niet in strijd is met artikel 16) dan wordt je refund ook automatisch afgewezen</li>
 
 ## Straf categorieën
 <li><b>Categorie 1</b> is een ingame warn met het daarbij behorend aantal taakstraffen.</li>
@@ -113,7 +114,6 @@ Een speler die tijdens of binnen 10 minuten na deelnemen aan een (crimineel) RP 
 
 ## Artikel 16 - Metagamen
 Een speler die informatie ingame gebruikt die hij of zij heeft verkregen buiten zijn karakter. Hieronder valt alle informatie in externe Discords (denk aan rollen, steamnamen, streams, game-opnames en overige informatie uit chats en kanalen). De enige uitzondering hierop is informatie in <b>IC kanalen</b> van de <b>officiële</b> ZuiderStad Discords. Alle onofficiële kanalen zijn per definitie bestempeld als OOC, op informatie in deze Discords mag IC dan ook <b>nooit</b> gehandeld worden. Ook het zogenaamde "stream-snipen" (het gebruiken van informatie uit een livestream om zo bijvoorbeeld de streamer op te zoeken) valt onder Metagaming (met uitzondering van livestreams die ingame via de ingame Telefoon worden gestreamed). Het is in geen enkel geval toegestaan om in een Discord call te zitten terwijl je ingame bent. De enige uitzondering hierop zijn supportkanalen in de officiële ZuiderStad Discord en proto kanalen in de ZuiderStad Overheidsdiscord. Dit geldt ook voor staffleden. Voor overheid gelden speciale porto protocollen, zodat wanneer zij de Discord Porto's gebruiken, ze ook ingame hoorbaar zijn. Het delen van IC informatie via OOC communicatie (denk aan OOC kanalen, onofficiële ZuiderStad Discords, privé gesprekken of op elke andere manier buiten officiële IC kanalen) met de intentie dat anderen deze informatie ingame gebruiken valt eveneens onder Metagaming. Ook het vragen naar IC informatie via OOC communicatie valt onder Metagaming.<br>
-<b>LET OP: </b> blijkt bij het behandelen van een ticket (bijvoorbeeld een refund ticket) dat je deze regel overtrad en je bijvoorbeeld in een Discord call zat, dan komt je recht op een refund per definitie te vervallen. Ook krijg je dan een straf die hoort bij dit artikel.
 <li>1e overtreding: Categorie 1</li>
 <li>2e overtreding: Categorie 1</li>
 <li>3e overtreding: Categorie 4</li>

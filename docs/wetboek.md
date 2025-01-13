@@ -84,7 +84,7 @@
 
 
 ## Titel I - Vermogensdelicten
-Terug weg naar  [Inhoudsopgave](#inhoudsopgave)
+Terug naar  [Inhoudsopgave](#inhoudsopgave)
 
 ### Artikel I-1 Diefstal (310 SR)
 
@@ -151,7 +151,7 @@ Terug weg naar  [Inhoudsopgave](#inhoudsopgave)
 
 
 ## Titel II - Geweldsdelicten
-Terug weg naar  [Inhoudsopgave](#inhoudsopgave)
+Terug naar  [Inhoudsopgave](#inhoudsopgave)
 
 ### Artikel II-1 Wederspannigheid/verzet (180 SR)
 
@@ -290,7 +290,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 
 ## Titel III - Verkeersdelicten
-Terug weg naar  [Inhoudsopgave](#inhoudsopgave)
+Terug naar  [Inhoudsopgave](#inhoudsopgave)
 
 ### Artikel III-1 Verkeersovertredingen in algemene zin (5 WVW)
 
@@ -513,7 +513,7 @@ Terug weg naar  [Inhoudsopgave](#inhoudsopgave)
 
 
 ## Titel IV - Opiumwet
-Terug weg naar  [Inhoudsopgave](#inhoudsopgave)
+Terug naar  [Inhoudsopgave](#inhoudsopgave)
 
 ### Artikel IV-1 Harddrugs (2 OW)
 
@@ -654,7 +654,7 @@ Terug weg naar  [Inhoudsopgave](#inhoudsopgave)
 
 
 ## Titel V - Wet Wapens en Munitie
-Terug weg naar  [Inhoudsopgave](#inhoudsopgave)
+Terug naar  [Inhoudsopgave](#inhoudsopgave)
 
 ### Artikel V-1 Vuurwapens en Explosieven (26 WWM)
 
@@ -729,7 +729,7 @@ Terug weg naar  [Inhoudsopgave](#inhoudsopgave)
 
 
 ## Titel VI - Wet op de Kansspelen
-Terug weg naar  [Inhoudsopgave](#inhoudsopgave)
+Terug naar  [Inhoudsopgave](#inhoudsopgave)
 
 ### Artikel VI-1 Algemeen verbod (1 Wok)
 
@@ -780,7 +780,7 @@ Terug weg naar  [Inhoudsopgave](#inhoudsopgave)
 
 
 ## Titel VII - Overige
-Terug weg naar  [Inhoudsopgave](#inhoudsopgave)
+Terug naar  [Inhoudsopgave](#inhoudsopgave)
 
 ### Artikel VII-1 Niet voldoen aan een bevel of vordering (184 SR)
 
@@ -955,7 +955,7 @@ Terug weg naar  [Inhoudsopgave](#inhoudsopgave)
 | Meerdere Veroordelingen  | 80 maanden |  | € 2.500.000,-  |
 
 ## Titel VIII – Algemene douanewet
-Terug weg naar  [Inhoudsopgave](#inhoudsopgave)
+Terug naar  [Inhoudsopgave](#inhoudsopgave)
 
 ### Artikel VIII-1 Negeren van controle grensinspectiepost (1:1 - 1:31 Algemene Douanewet)
 

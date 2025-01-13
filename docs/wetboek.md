@@ -1,4 +1,4 @@
-# Wetboek ZuiderStad
+# Wetboek
 
 ## Wetstechnische informatie
 

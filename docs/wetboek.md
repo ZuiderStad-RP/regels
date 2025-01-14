@@ -1,3 +1,4 @@
+
 # Wetboek
 
 ## Wetstechnische informatie
@@ -10,18 +11,6 @@
 | Vastgesteld door          | De Hoge Raad en Korpsleiding|
 | Onderwerp                 | Openbare orde en veiligheid |
 
-
-## Inhoudsopgave
-  - [Algemene Bepalingen](#algemene-bepalingen)
-  - [Titel I - Vermogensdelicten](#titel-i---vermogensdelicten)
-  - [Titel II - Geweldsdelicten](#titel-ii---geweldsdelicten)
-  - [Titel III - Verkeersdelicten](#titel-iii---verkeersdelicten)
-  - [Titel IV - Opiumwet](#titel-iv---opiumwet)
-  - [Titel V - Wet Wapens en Munitie](#titel-v---wet-wapens-en-munitie)
-  - [Titel VI - Wet op de Kansspelen](#titel-vi---wet-op-de-kansspelen)
-  - [Titel VII - Overige](#titel-vii---overige)
-  - [Titel VIII – Algemene douanewet](#titel-viii--algemene-douanewet)
- 
 
 ## Algemene Bepalingen
 

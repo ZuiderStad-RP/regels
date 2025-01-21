@@ -696,7 +696,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 ### Artikel V-5 Munitiebezit
 
 1. Strafbaar is een persoon die munitie voorhanden heeft.
-2. Voor elke clip word de straf met 25% verhoogd
+2. Voor elke magazijn wordt de straf voor munitiebezit met 25% verhoogd. Een magazijn voor een pistool telt 16 kogels, een magazijn voor een SMG telt 20 kogels, een magazijn voor een AR telt 30 kogels en een magazijn voor een shotgun telt 10 kogels.
 
 | ***`Categorie 1 Munitie`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|

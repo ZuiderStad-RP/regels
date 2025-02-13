@@ -146,6 +146,7 @@ Mensen met een functie als Politie, KMAR, Ambulance, ANWB en Handhaving worden b
  <tr><td>4.18</td><td>Het is niet toegestaan om uitdienst in voertuigen met lightbars rond te rijden, deze dien je er voordat je er privé in gaat rijden af te halen</td><td>Artikel 26</td></tr>
  <tr><td>4.19</td><td>Ieder voertuig dat voorzien wordt van lightbars dien je te registreren in de overheidsdiscord. Het is niet toegestaan om rond te rijden in een voertuig met lightbars dat niet is aangemeld</td><td>Artikel 26</td></tr>
  <tr><td>4.20</td><td>Een undercoveroperatie/set-up operatie mag enkel worden uitgevoerd met toestemming van korpsleiding en indien er een dossier met voldoende bewijs is opgebouwd</td><td>Artikel 26</td></tr>
+ <tr><td>4.21</td><td>Het is niet toegestaan om overheidsvoertuigen met schade te vervangen door een nieuwe voertuig uit de politiegarage te halen om zo het voertuig te 'repareren'. Overheidsdiensten dienen gebruik te maken van repairkits, de repairfunctie in de tuneshops of de ANWB in te schakelen voor reparatie</td><td>Artikel 17</td></tr>
 </tbody></table>
 
 ## 5. Overige regels

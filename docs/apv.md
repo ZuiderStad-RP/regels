@@ -9,6 +9,7 @@
 <li>Staff kan als aanvullende straf beslissen om een accountwipe uit te voeren indien hier aanleiding voor is</li>
 <li>Het aanzetten van anderen tot het overtreden van de APV regels zal worden bestraft met dezelfde straf die hoort bij het geldende artikel</li>
 <li>Bij een refund ticket dient <b>altijd</b> een clip aanwezig te zijn! Hierbij dient ook audio opgenomen te zijn. Zonder clip, of met een clip zonder audio wordt je refund afgekeurd. Wanneer in een refund ticket te horen is dat je in een Discord call zit (ook al is dit een Discord call die niet in strijd is met artikel 16) dan wordt je refund ook automatisch afgewezen</li>
+<li>Wanneer jij jouw wapens, spullen, geld of voertuigen onderbrengt/uitleent bij/aan iemand anders en diegene komt om wat voor reden dan ook de stad niet meer in dan kom je niet in aanmerking voor een refund. Je bent zelf verantwoordelijk voor het opbergen en bewaren van je spullen. Dus ook als de persoon in kwestie een ban krijgt kom je niet in aanmerking voor een refund</li>
 
 ## Straf categorieën
 <li><b>Categorie 1</b> is een ingame warn met het daarbij behorend aantal taakstraffen.</li>

@@ -48,7 +48,7 @@
  <tr><td>1.42</td><td>Wanneer een of meerdere banden lek zijn, is het niet toegestaan om harder te rijden dan 80 km/u. Wanneer je op de velg rijdt is het niet toegestaan harder te rijden dan 40km/u. Op een motor is het verboden om op de velg te rijden</td><td>Artikel 4</td></tr>
  <tr><td>1.43</td><td>Het is niet toegestaan om een zogenaamde combat roll (rollen terwijl je aan het richten bent) uit te voeren</td><td>Artikel 4</td></tr>
  <tr><td>1.44</td><td>Het is niet toegestaan onder het account van iemand anders te spelen of iemand anders te laten spelen op jouw account, tenzij je toestemming hebt van Hoge Raad (soms wordt er een uitzondering gemaakt wanneer iemand de stad wil laten zien, of wanneer iemand zijn/haar pc voor langere tijd defect is)</td><td>Artikel 4</td></tr>
- <tr><td>1.45</td><td>Wanneer er een wapen op je gericht staat dien je mee te werken. Wanneer het een slag-, steek-, of stootwapen betreft geldt dat deze zich binnen armlengte dient te bevinden</td><td>Artikel 9</td></tr>
+ <tr><td>1.45</td><td>Wanneer er een wapen op je gericht staat dien je mee te werken, wanneer het wapen dat er op je gericht staat een slag-, steek- of stootwapen betreft dient deze zich binnen armlengte te bevinden. Wanneer er een slag-, steek- of stootwapen op je gericht staat en je zelf een vuurwapen op zak hebt hoef je niet mee te werken, ook niet wanneer het gerichte slag-, steek- of stootwapen zich binnen armlengte bevindt</td><td>Artikel 9</td></tr>
 </tbody></table>
 
 ## 2. Criminele Activiteiten

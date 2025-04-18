@@ -22,7 +22,7 @@
 <li><b>Categorie 8</b> is een permanente ban.</li>
 
 ## Artikel 1 - Cheaten/hacken
-Een speler die op een oneerlijke manier zichzelf voordeel geeft ten aanzien van andere spelers, bijvoorbeeld: geld, wapens of andere zaken inspawnen of het gebruiken van aimbots, ESP, crosshairs of andere hulpmiddelen.
+Een speler die op een oneerlijke manier zichzelf voordeel geeft ten aanzien van andere spelers, bijvoorbeeld: geld, wapens of andere zaken inspawnen of het gebruiken van aimbots, ESP, crosshairs of andere hulpmiddelen. Hieronder vallen ook graphic/audio packs die jou een voordeel geven. Denk aan combat graphic/audio packs. Ook NVE instellen op een dusdanige manier dat dit gezien wordt als combat valt onder cheaten/hacken.
 <li>1e overtreding: Categorie 8</li>
 
 ## Artikel 2 - Glitch abuse

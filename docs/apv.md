@@ -23,11 +23,11 @@
 
 ## Artikel 1 - Cheaten/hacken
 Een speler die op een oneerlijke manier zichzelf voordeel geeft ten aanzien van andere spelers, bijvoorbeeld: geld, wapens of andere zaken inspawnen of het gebruiken van aimbots, ESP, crosshairs of andere hulpmiddelen. Hieronder vallen ook graphic/audio packs die jou een voordeel geven. Denk aan combat graphic/audio packs. Ook NVE instellen op een dusdanige manier dat dit gezien wordt als combat valt onder cheaten/hacken.
-<li>1e overtreding: Categorie 8 + volledige accountwipe (inclusief eventueel aanschafte zaken)</li>
+<li>1e overtreding: Categorie 8 + volledige accountwipe (inclusief eventueel aangeschafte zaken)</li>
 
 ## Artikel 2 - Glitch abuse
 Een speler die glitches of bugs misbruikt om er persoonlijk voordeel (zoals geld, wapens of andere items) uit te halen. Als dit bij jou per ongeluk gebeurt, maak dan direct een ticket aan om een ban te voorkomen.
-<li>1e overtreding: Categorie 8 + volledige accountwipe (inclusief eventueel aanschafte zaken)</li>
+<li>1e overtreding: Categorie 8 + volledige accountwipe (inclusief eventueel aangeschafte zaken)</li>
 
 ## Artikel 3 - Bug abuse
 Een speler die een bug actief misbruikt, bijvoorbeeld een bepaalde emote om in of uit een ruimte te gaan.

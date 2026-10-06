@@ -1,6 +1,9 @@
 # Roleplay Regels
 <strong>BELANGRIJK:</strong> Al onderstaande regels (punt 1 t/m 5) komen te vervallen!
 ZuiderStad heeft dus <strong>GEEN ENKELE</strong> regels! Je mag letterlijk alles doen wat je maar wil!
+We willen een zo realistisch mogelijke roleplay neerzetten, dus als jouw karakter graag staff lastig valt of continu aan het schelden/schreeuwen is, dan is dat helemaal prima!
+
+Ook bugs/glitches en exploits mogen <strong>ongelimiteerd</strong> gebruikt worden om jezelf en anderen een voordeel te geven. Je hoeft dit soort zaken dan ook niet te rapporteren!
 
 ## 1. Basisregels
 <table>

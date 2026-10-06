@@ -1,4 +1,6 @@
 # Roleplay Regels
+<strong>BELANGRIJK:</strong> Al onderstaande regels (punt 1 t/m 5) komen te vervallen!
+ZuiderStad heeft dus <strong>GEEN ENKELE</strong> regels! Je mag letterlijk alles doen wat je maar wil!
 
 ## 1. Basisregels
 <table>

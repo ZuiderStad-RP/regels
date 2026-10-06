@@ -1,4 +1,9 @@
 # APV
+<strong>BELANGRIJK:</strong> Al onderstaande regels en artikelen komen per direct te vervallen!
+ZuiderStad heeft dus <strong>GEEN ENKELE</strong> regels! Je mag letterlijk alles doen wat je maar wil!
+We willen een zo realistisch mogelijke roleplay neerzetten, dus als jouw karakter graag staff lastig valt of continu aan het schelden/schreeuwen is, dan is dat helemaal prima! Ook in Discord is alles toegestaan!
+
+Ook bugs/glitches en exploits mogen <strong>ongelimiteerd</strong> gebruikt worden om jezelf en anderen een voordeel te geven. Je hoeft dit soort zaken dan ook niet te rapporteren!
 
 ## Algemene bepalingen
 <b>Regels voor alle strafbepalingen:</b>
